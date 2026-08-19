@@ -2,13 +2,13 @@
 
 \**Please contribute through pull requests*- ;)
 
-Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,335 | 🐛 74 | 📅 2026-07-15
+Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,338 | 🐛 74 | 📅 2026-07-15
 
 ## Books
 
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,053 | 🐛 166 | 📅 2024-11-19
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,117 | 🐛 166 | 📅 2024-11-19
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com/), [github](https://github.com/nakov/practical-cryptography-for-developers-book) ⭐ 3,824 | 🐛 60 | 🌐 CSS | 📅 2024-06-07
-* Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) ⭐ 645 | 🐛 4 | 🌐 C | 📅 2025-11-25 by [Cert.BR](http://www.cert.br)
+* Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) ⭐ 646 | 🐛 4 | 🌐 C | 📅 2025-11-25 by [Cert.BR](http://www.cert.br)
 * [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) — Third Edition
 * [The Cyber Plumber's Handbook](https://cph.opsdisk.com/index.html#students)
 
@@ -20,15 +20,15 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 * [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) ⭐ 4,095 | 🐛 4 | 🌐 YARA | 📅 2024-07-25
 * [SMHasher](https://github.com/rurban/smhasher/) ⭐ 2,170 | 🐛 46 | 🌐 C++ | 📅 2026-07-04 is a test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions. [another repo](https://github.com/aappleby/smhasher) ⭐ 2,887 | 🐛 69 | 🌐 C++ | 📅 2026-06-25
 * [cset](https://github.com/cisagov/cset) ⭐ 1,882 | 🐛 38 | 🌐 TSQL | 📅 2026-08-12: Cybersecurity Evaluation Tool by CISA.gov.
-* [OpenEX](https://www.openex.io/en/): Crisis drills planning platform. [repo](https://github.com/OpenEx-Platform/openex) ⭐ 1,780 | 🐛 720 | 🌐 Java | 📅 2026-08-18
+* [OpenEX](https://www.openex.io/en/): Crisis drills planning platform. [repo](https://github.com/OpenEx-Platform/openex) ⭐ 1,780 | 🐛 727 | 🌐 Java | 📅 2026-08-19
 * [Cybersecurity](https://github.com/Berkanktk/CyberSecurity) ⭐ 1,578 | 🐛 4 | 🌐 Python | 📅 2026-02-24: A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension.
 * [comply](https://github.com/strongdm/comply) ⭐ 1,569 | 🐛 29 | 🌐 Go | 📅 2022-07-21: Compliance automation framework, focused on SOC2.
 * [my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome) ⭐ 1,167 | 🐛 1 | 📅 2026-07-19.
 * [Open Security Controls Assessment Language (OSCAL)](https://github.com/usnistgov/OSCAL) ⭐ 941 | 🐛 191 | 🌐 XSLT | 📅 2026-08-13: NIST is developing the Open Security Controls Assessment Language (OSCAL), a set of hierarchical, XML-, JSON-, and YAML-based formats that provide a standardized representations of information pertaining to the publication, implementation, and assessment of security controls.
-* Some [list](https://github.com/Spacial/csirt/blob/master/SecurityProjects.md) ⭐ 645 | 🐛 4 | 🌐 C | 📅 2025-11-25 of security projects
+* Some [list](https://github.com/Spacial/csirt/blob/master/SecurityProjects.md) ⭐ 646 | 🐛 4 | 🌐 C | 📅 2025-11-25 of security projects
 * [crypto](https://github.com/boazbk/crypto) ⭐ 586 | 🐛 33 | 🌐 TeX | 📅 2023-12-11: Lecture notes for a course on cryptography
 * [hacking-tutorials](https://github.com/maestron/hacking-tutorials) ⭐ 365 | 🐛 3 | 🌐 HTML | 📅 2021-04-16
-* [OASIS Common Security Advisory Framework (CSAF)](https://oasis-open.github.io/csaf-documentation/) [repo](https://github.com/oasis-tcs/csaf) ⭐ 227 | 🐛 204 | 🌐 HTML | 📅 2026-08-18 [secvisogram](https://github.com/secvisogram/secvisogram) ⭐ 44 | 🐛 68 | 🌐 JavaScript | 📅 2026-08-18 [editor](https://secvisogram.github.io/)
+* [OASIS Common Security Advisory Framework (CSAF)](https://oasis-open.github.io/csaf-documentation/) [repo](https://github.com/oasis-tcs/csaf) ⭐ 227 | 🐛 203 | 🌐 HTML | 📅 2026-08-19 [secvisogram](https://github.com/secvisogram/secvisogram) ⭐ 44 | 🐛 66 | 🌐 JavaScript | 📅 2026-08-19 [editor](https://secvisogram.github.io/)
 * [SOCless](https://twilio-labs.github.io/socless/): [The SOCless automation framework](https://github.com/twilio-labs/socless) ⭐ 141 | 🐛 32 | 🌐 Python | 📅 2026-04-15
 * [cti-documentation](https://github.com/oasis-open/cti-documentation) ⭐ 116 | 🐛 19 | 🌐 SCSS | 📅 2026-07-27
 * [notrandom](https://github.com/fx5/not_random) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2022-07-28: reverse the Mersenne Twister.
@@ -62,7 +62,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Incident Response
 
-* [Maltrail](https://github.com/stamparm/maltrail) ⭐ 8,582 | 🐛 90 | 🌐 Python | 📅 2026-08-18:  Malicious traffic detection system
+* [Maltrail](https://github.com/stamparm/maltrail) ⭐ 8,583 | 🐛 90 | 🌐 Python | 📅 2026-08-19:  Malicious traffic detection system
 * [timesketch](https://github.com/google/timesketch) ⭐ 3,391 | 🐛 216 | 🌐 Python | 📅 2026-08-18: Collaborative forensic timeline analysis.
 * [FIR](https://github.com/certsocietegenerale/FIR/) ⭐ 2,029 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-07 (Fast Incident Response): is an cybersecurity incident management platform designed with agility and speed in mind.
 * [Beagle](https://github.com/yampelo/beagle) ⭐ 1,351 | 🐛 44 | 🌐 Python | 📅 2022-12-13 is an incident response and digital forensics tool which transforms security logs and data into graphs.
@@ -98,9 +98,9 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ## CVEs
 
-* [CVE PoC](https://github.com/trickest/cve) ⭐ 8,010 | 🐛 21 | 🌐 HTML | 📅 2026-08-18: Almost every publicly available CVE PoC.
+* [CVE PoC](https://github.com/trickest/cve) ⭐ 8,013 | 🐛 21 | 🌐 HTML | 📅 2026-08-18: Almost every publicly available CVE PoC.
 * [NotQuite0DayFriday](https://github.com/grimm-co/NotQuite0DayFriday) ⭐ 802 | 🐛 0 | 🌐 Python | 📅 2022-04-22: This is a repo which documents real bugs in real software to illustrate trends, learn how to prevent or find them more quickly.
-* Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md) ⭐ 645 | 🐛 4 | 🌐 C | 📅 2025-11-25 and in [here](https://github.com/Spacial/csirt/tree/master/PoCs) ⭐ 645 | 🐛 4 | 🌐 C | 📅 2025-11-25
+* Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md) ⭐ 646 | 🐛 4 | 🌐 C | 📅 2025-11-25 and in [here](https://github.com/Spacial/csirt/tree/master/PoCs) ⭐ 646 | 🐛 4 | 🌐 C | 📅 2025-11-25
 * [dorkbot](https://github.com/utiso/dorkbot) ⭐ 548 | 🐛 0 | 🌐 Python | 📅 2026-04-30: Command-line tool to scan Google search results for vulnerabilities.
 * [cve\_manager](https://github.com/aatlasis/cve_manager) ⭐ 78 | 🐛 6 | 🌐 Python | 📅 2021-11-30: A python script that a) parses NIST NVD CVEs, b) prcoesses and exports them to CSV files, c) creates a postgres database and imports all the data in it, d) provides query capabilities for this CVEs database.
 * [TROMMEL](https://github.com/CERTCC-Vulnerability-Analysis/trommel/) ⚠️ Archived: Sift Through Directories of Files to Identify Indicators That May Contain Vulnerabilities
@@ -111,10 +111,10 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,133 | 🐛 25 | 📅 2024-06-07: A curated list of awesome malware analysis tools and resources.
 * [colental/byob: BYOB (Build Your Own Botnet)](https://github.com/colental/byob) ⭐ 9,495 | 🐛 3 | 🌐 Python | 📅 2026-08-10, another [byob](https://github.com/malwaredllc/byob) ⭐ 9,495 | 🐛 3 | 🌐 Python | 📅 2026-08-10
-* [pyWhat](https://github.com/bee-san/pyWhat) ⭐ 7,309 | 🐛 30 | 🌐 Python | 📅 2023-10-31: Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is!
-* A PoC "malware" application with good intentions that aims to stress your anti-malware system: [al-khaser](https://github.com/LordNoteworthy/al-khaser) ⭐ 7,096 | 🐛 42 | 🌐 C++ | 📅 2026-07-01
-* [CAPA](https://github.com/fireeye/capa/) ⭐ 6,144 | 🐛 290 | 🌐 Python | 📅 2026-08-18: The FLARE team's open-source tool to identify capabilities in executable files. [capa-rules](https://github.com/fireeye/capa-rules) ⭐ 732 | 🐛 137 | 📅 2026-08-17
-* [malwoverview](https://github.com/alexandreborges/malwoverview) ⭐ 4,068 | 🐛 0 | 🌐 Python | 📅 2026-08-07: Malwoverview\.py is a first response tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample.
+* [pyWhat](https://github.com/bee-san/pyWhat) ⭐ 7,310 | 🐛 30 | 🌐 Python | 📅 2023-10-31: Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is!
+* A PoC "malware" application with good intentions that aims to stress your anti-malware system: [al-khaser](https://github.com/LordNoteworthy/al-khaser) ⭐ 7,097 | 🐛 42 | 🌐 C++ | 📅 2026-07-01
+* [CAPA](https://github.com/fireeye/capa/) ⭐ 6,144 | 🐛 290 | 🌐 Python | 📅 2026-08-18: The FLARE team's open-source tool to identify capabilities in executable files. [capa-rules](https://github.com/fireeye/capa-rules) ⭐ 732 | 🐛 138 | 📅 2026-08-17
+* [malwoverview](https://github.com/alexandreborges/malwoverview) ⭐ 4,069 | 🐛 0 | 🌐 Python | 📅 2026-08-07: Malwoverview\.py is a first response tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample.
 * [pafish](https://github.com/a0rtega/pafish) ⚠️ Archived: Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
 * [malware\_training\_vol1](https://github.com/hasherezade/malware_training_vol1) ⭐ 2,094 | 🐛 10 | 🌐 Assembly | 📅 2024-07-01: Materials for Windows Malware Analysis training (volume 1).
 * [Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) ⭐ 2,043 | 🐛 1 | 🌐 YARA | 📅 2026-08-12:  All-in-One malware analysis tool.
@@ -128,7 +128,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 * [Coldfire](https://github.com/redcode-labs/Coldfire) ⭐ 983 | 🐛 4 | 🌐 Go | 📅 2024-12-13: Golang malware development library
 * [HiJackThis Fork v3](https://github.com/dragokas/hijackthis) ⭐ 804 | 🐛 26 | 🌐 Visual Basic 6.0 | 📅 2026-07-02: A free utility that finds malware, adware and other security threats.
 * [makin](https://github.com/secrary/makin) ⭐ 743 | 🐛 2 | 🌐 C++ | 📅 2019-03-17 - reveal anti-debugging and anti-VM tricks.
-* Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md) ⭐ 645 | 🐛 4 | 🌐 C | 📅 2025-11-25
+* Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md) ⭐ 646 | 🐛 4 | 🌐 C | 📅 2025-11-25
 * [multiscanner](https://github.com/mitre/multiscanner) ⭐ 620 | 🐛 39 | 🌐 Python | 📅 2019-10-08: Modular file scanning/analysis framework.
 * [IceBox](https://github.com/thalium/icebox) ⭐ 600 | 🐛 4 | 🌐 C++ | 📅 2022-02-22: Icebox is a Virtual Machine Introspection solution that enable you to stealthily trace and debug any process (kernel or user). It's based on project Winbagility.
 * [Transacted Hollowing](https://github.com/hasherezade/transacted_hollowing) ⭐ 587 | 🐛 2 | 🌐 C | 📅 2024-03-08: a PE injection technique, hybrid between ProcessHollowing and ProcessDoppelgänging.
@@ -266,7 +266,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Repos
 
-* [A repository of LIVE malwares for your own joy and pleasure](https://github.com/ytisf/theZoo) ⭐ 13,304 | 🐛 89 | 🌐 Python | 📅 2026-07-24: [theZoo](http://thezoo.morirt.com)
+* [A repository of LIVE malwares for your own joy and pleasure](https://github.com/ytisf/theZoo) ⭐ 13,305 | 🐛 89 | 🌐 Python | 📅 2026-07-24: [theZoo](http://thezoo.morirt.com)
 * [What is MWDB Core?](https://www.cert.pl/en/news/single/set-up-your-own-malware-repository-with-mwdb-core/) [mwdb-core](https://github.com/CERT-Polska/mwdb-core) ⭐ 397 | 🐛 44 | 🌐 Python | 📅 2026-08-13: Malware repository component for samples & static configuration with REST API interface.
 * [LOLBITS](https://github.com/Kudaes/LOLBITS) ⭐ 222 | 🐛 1 | 🌐 C# | 📅 2022-12-08: C2 framework that uses Background Intelligent Transfer Service (BITS) as communication protocol and Direct Syscalls + Dinvoke for EDR user-mode hooking evasion.
 * [MalwareWorld](https://malwareworld.com/): Check for Suspicious Domains and IPs. Repo: [MalwareWorld](https://github.com/carlospolop/MalwareWorld) ⭐ 159 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-06: System based on +500 blacklists and 5 external intelligences to detect internet potencially malicious hosts
@@ -322,7 +322,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Virus/Anti-Virus
 
-* [VirusTotal CLI](https://github.com/VirusTotal/vt-cli) ⭐ 1,461 | 🐛 17 | 🌐 Go | 📅 2026-07-07
+* [VirusTotal CLI](https://github.com/VirusTotal/vt-cli) ⭐ 1,462 | 🐛 17 | 🌐 Go | 📅 2026-07-07
 * [avcleaner](https://github.com/scrt/avcleaner) ⭐ 1,073 | 🐛 6 | 🌐 C | 📅 2022-03-10: C/C++ source obfuscator for antivirus bypass
 * [Morris worm](https://github.com/arialdomartini/morris-worm) ⭐ 683 | 🐛 5 | 🌐 C | 📅 2020-11-24
 * [metame](https://github.com/a0rtega/metame) ⭐ 605 | 🐛 5 | 🌐 Python | 📅 2019-10-06: is a simple metamorphic code engine for [arbitrary executables](https://www.kitploit.com/2019/09/metame-metame-is-metamorphic-code.html).
@@ -354,7 +354,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Malware Articles and Sources
 
-* [Linux.Kropotkine.asm](https://github.com/vxunderground/MalwareSourceCode/blob/8ce86aa641299d8cfa13ce801bcb6a6b292d6f9b/VXUG/Linux.Kropotkine.asm) ⭐ 18,656 | 🐛 14 | 🌐 Assembly | 📅 2026-05-30
+* [Linux.Kropotkine.asm](https://github.com/vxunderground/MalwareSourceCode/blob/8ce86aa641299d8cfa13ce801bcb6a6b292d6f9b/VXUG/Linux.Kropotkine.asm) ⭐ 18,660 | 🐛 14 | 🌐 Assembly | 📅 2026-05-30
 * [A WILD KOBALOS APPEARS](https://www.welivesecurity.com/wp-content/uploads/2021/01/ESET_Kobalos.pdf), Tricksy Linux malware goes after HPCs. [kobalos iocs](https://github.com/eset/malware-ioc/tree/master/kobalos) ⭐ 1,978 | 🐛 0 | 🌐 YARA | 📅 2026-06-25
 * [“VANILLA” malware](https://link.springer.com/article/10.1007/s11416-019-00333-y): vanishing antiviruses by interleaving layers and layers of attacks
 * [A Mix of Python & VBA in a Malicious Word Document](https://isc.sans.edu/forums/diary/A+Mix+of+Python+VBA+in+a+Malicious+Word+Document/26578/)
@@ -367,27 +367,27 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ## Reverse Engineering
 
-* [ImHex](https://github.com/WerWolv/ImHex) ⭐ 54,497 | 🐛 386 | 🌐 C++ | 📅 2026-08-19: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+* [ImHex](https://github.com/WerWolv/ImHex) ⭐ 54,505 | 🐛 386 | 🌐 C++ | 📅 2026-08-19: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) ⚠️ Archived:  free and open-source cross-platform source explorer.
-* [rr](https://github.com/rr-debugger/rr) ⭐ 10,621 | 🐛 480 | 🌐 C++ | 📅 2026-08-16: Record and Replay Framework.
+* [rr](https://github.com/rr-debugger/rr) ⭐ 10,622 | 🐛 480 | 🌐 C++ | 📅 2026-08-16: Record and Replay Framework.
 * [Reverse engineering WhatsApp Web](https://github.com/sigalor/whatsapp-web-reveng) ⭐ 6,489 | 🐛 157 | 🌐 JavaScript | 📅 2024-04-22
 * [capa](https://github.com/mandiant/capa) ⭐ 6,144 | 🐛 290 | 🌐 Python | 📅 2026-08-18: The FLARE team's open-source tool to identify capabilities in executable files.
-* [Qiling Framework](https://www.qiling.io/): Qiling Advanced Binary Emulation Framework. [repo](https://github.com/qilingframework/qiling) ⭐ 6,064 | 🐛 123 | 🌐 Python | 📅 2026-07-22
-* [LIEF](https://lief.quarkslab.com/): Library to Instrument Executable Formats  ([github](https://github.com/lief-project/LIEF/) ⭐ 5,535 | 🐛 32 | 🌐 C++ | 📅 2026-08-15)
+* [Qiling Framework](https://www.qiling.io/): Qiling Advanced Binary Emulation Framework. [repo](https://github.com/qilingframework/qiling) ⭐ 6,065 | 🐛 123 | 🌐 Python | 📅 2026-07-22
+* [LIEF](https://lief.quarkslab.com/): Library to Instrument Executable Formats  ([github](https://github.com/lief-project/LIEF/) ⭐ 5,536 | 🐛 32 | 🌐 C++ | 📅 2026-08-15)
 * [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit) ⭐ 5,265 | 🐛 4 | 🌐 Inno Setup | 📅 2026-06-18
-* [Decompyle++](https://github.com/zrax/pycdc) ⭐ 4,582 | 🐛 233 | 🌐 C++ | 📅 2026-04-07: C++ python bytecode disassembler and decompiler
+* [Decompyle++](https://github.com/zrax/pycdc) ⭐ 4,583 | 🐛 233 | 🌐 C++ | 📅 2026-04-07: C++ python bytecode disassembler and decompiler
 * [uncompyle6](https://github.com/rocky/python-uncompyle6) ⭐ 4,314 | 🐛 42 | 🌐 Python | 📅 2026-04-24: A cross-version [Python bytecode decompiler](https://www.kitploit.com/2019/07/uncompyle6-cross-version-python.html)
-* [flare-floss](https://github.com/fireeye/flare-floss) ⭐ 4,123 | 🐛 120 | 🌐 Python | 📅 2026-08-18: : FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
+* [flare-floss](https://github.com/fireeye/flare-floss) ⭐ 4,123 | 🐛 123 | 🌐 Python | 📅 2026-08-18: : FireEye Labs Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 * [qira](https://github.com/geohot/qira) ⭐ 4,069 | 🐛 69 | 🌐 C | 📅 2022-07-02: QEMU Interactive Runtime Analyser.
-* [HyperDbg Debugger](https://github.com/HyperDbg/HyperDbg) ⭐ 4,002 | 🐛 26 | 🌐 C | 📅 2026-08-17: The Source Code of HyperDbg Debugger
+* [HyperDbg Debugger](https://github.com/HyperDbg/HyperDbg) ⭐ 4,003 | 🐛 26 | 🌐 C | 📅 2026-08-17: The Source Code of HyperDbg Debugger
 * [miasm](https://github.com/cea-sec/miasm) ⭐ 3,926 | 🐛 178 | 🌐 Python | 📅 2026-08-10: Reverse engineering framework in Python
 * [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore) ⚠️ Archived:  Symbolic execution tool
-* [rizin](https://github.com/rizinorg/rizin) ⭐ 3,787 | 🐛 543 | 🌐 C | 📅 2026-08-17: UNIX-like reverse engineering framework and command-line toolset. [site](https://rizin.re/)
+* [rizin](https://github.com/rizinorg/rizin) ⭐ 3,788 | 🐛 544 | 🌐 C | 📅 2026-08-17: UNIX-like reverse engineering framework and command-line toolset. [site](https://rizin.re/)
 * [Signature-Base](https://github.com/Neo23x0/signature-base) ⭐ 3,006 | 🐛 13 | 🌐 YARA | 📅 2026-08-03: signature-base is the signature database for my scanners LOKI and SPARK Core.
   * [Generic Anomalies](https://github.com/Neo23x0/signature-base/blob/master/yara/generic_anomalies.yar#L379) ⭐ 3,006 | 🐛 13 | 🌐 YARA | 📅 2026-08-03: Detects an embedded executable in a non-executable file
 * [panda](https://github.com/panda-re/panda) ⭐ 2,774 | 🐛 97 | 🌐 C | 📅 2026-07-29: Platform for Architecture-Neutral Dynamic Analysis.
 * [rehex](https://github.com/solemnwarning/rehex) ⭐ 2,476 | 🐛 26 | 🌐 C++ | 📅 2026-07-23:  Reverse Engineers' Hex Editor.
-* [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,198 | 🐛 80 | 🌐 Python | 📅 2026-08-19: Scots Army Knife for electronics
+* [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow) ⭐ 2,199 | 🐛 80 | 🌐 Python | 📅 2026-08-19: Scots Army Knife for electronics
 * [qemu\_blog](https://github.com/airbus-seclab/qemu_blog) ⭐ 1,529 | 🐛 0 | 📅 2023-11-03: A series of posts about QEMU internals.
 * [reFlutter](https://github.com/ptswarm/reFlutter) ⚠️ Archived: Flutter Reverse Engineering Framework.
 * [Virtuailor](https://github.com/0xgalz/Virtuailor) ⭐ 1,394 | 🐛 12 | 🌐 Python | 📅 2021-07-04: IDAPython tool for C++ vtables reconstruction.
@@ -435,7 +435,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
   * [IDA Python](https://medium.com/malware-buddy/reverse-engineering-tips-ida-python-bd0ce64a48ed)
   * [TLS callbacks](https://hex-rays.com/blog/tls-callbacks/)
 * GDB:
-  * [pwndbg](https://github.com/pwndbg/pwndbg) ⭐ 10,772 | 🐛 213 | 🌐 Python | 📅 2026-08-18: Exploit Development and Reverse Engineering with GDB Made Easy
+  * [pwndbg](https://github.com/pwndbg/pwndbg) ⭐ 10,776 | 🐛 214 | 🌐 Python | 📅 2026-08-18: Exploit Development and Reverse Engineering with GDB Made Easy
   * [about gef](https://www.offensivethink.com/about-gef.html). [gef](https://github.com/hugsy/gef) ⭐ 8,320 | 🐛 16 | 🌐 Python | 📅 2026-06-16: GDB Enhanced Features for exploit devs & reversers.
   * [PEDA](https://github.com/longld/peda) ⭐ 6,147 | 🐛 76 | 🌐 Python | 📅 2024-07-29: Python Exploit Development Assistance for GDB.
   * [some things about gef](https://www.offensivethink.com/about-gef.html)
@@ -460,7 +460,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 * [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/).
 * [Reverse Engineering of a Not-so-Secure IoT Device](https://mcuoneclipse.com/2019/05/26/reverse-engineering-of-a-not-so-secure-iot-device/)
 * ELF - Executable and Linkable Format:
-  * [binsider](https://github.com/orhun/binsider) ⭐ 4,389 | 🐛 35 | 🌐 Rust | 📅 2026-08-16: Analyze ELF binaries like a boss 😼🕵️‍♂️
+  * [binsider](https://github.com/orhun/binsider) ⭐ 4,390 | 🐛 35 | 🌐 Rust | 📅 2026-08-16: Analyze ELF binaries like a boss 😼🕵️‍♂️
   * [Python for Reverse Engineering 1](https://icyphox.sh/blog/python-for-re-1/): ELF Binaries
   * [The 101 of ELF files on Linux](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/): Understanding and Analysis - Linux Audit
   * [On ELF, Part 1](https://kestrelcomputer.github.io/kestrel/2018/01/29/on-elf)
@@ -482,7 +482,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
   * [Deobfuscating DanaBot’s API Hashing](https://malwareandstuff.com/deobfuscating-danabots-api-hashing/)
   * [Deobfuscation](https://blog.quarkslab.com/deobfuscation-recovering-an-ollvm-protected-program.html): recovering an OLLVM-protected program
 * [VX Underground](https://vx-underground.org/)
-  * [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) ⭐ 18,656 | 🐛 14 | 🌐 Assembly | 📅 2026-05-30: Collection of malware source code for a variety of platforms in an array of different programming languages.
+  * [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) ⭐ 18,660 | 🐛 14 | 🌐 Assembly | 📅 2026-05-30: Collection of malware source code for a variety of platforms in an array of different programming languages.
   * [VXUG-Papers](https://github.com/vxunderground/VXUG-Papers) ⭐ 1,408 | 🐛 0 | 🌐 C | 📅 2021-12-07: Research code & [papers](https://vx-underground.org/papers.html) from members of vx-underground.
 * (pt-br) [Como automaticamente atachar um processo a um debugger.](https://diegoalbuquerque.github.io/trick-to-bof-debugger.html)
 * [Taming Virtual Machine Based Code Protection](https://malwareandstuff.com/taming-virtual-machine-based-code-protection-1/)
@@ -507,14 +507,14 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 * [PyInstaller Extractor](https://github.com/extremecoders-re/pyinstxtractor) ⭐ 4,438 | 🐛 21 | 🌐 Python | 📅 2026-07-22
 * [edb](https://github.com/eteran/edb-debugger) ⭐ 2,948 | 🐛 67 | 🌐 C++ | 📅 2026-08-14 is a cross-platform AArch32/x86/x86-64 debugger.
-* [NoVmp](https://github.com/can1357/NoVmp) ⭐ 2,178 | 🐛 10 | 🌐 C++ | 📅 2021-08-08: A static devirtualizer for VMProtect x64 3.x powered by VTIL.
+* [NoVmp](https://github.com/can1357/NoVmp) ⭐ 2,179 | 🐛 10 | 🌐 C++ | 📅 2021-08-08: A static devirtualizer for VMProtect x64 3.x powered by VTIL.
 * [Awesome IDA, x64DBG & OllyDBG plugins](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,583 | 🐛 3 | 📅 2026-02-20: A curated list of IDA x64DBG and OllyDBG plugins.
 * [Interactive Delphi Reconstructor IDR](https://github.com/crypto2011/IDR) ⭐ 1,151 | 🐛 42 | 🌐 C++ | 📅 2023-08-09: a decompiler of executable files (EXE) and dynamic libraries (DLL), written in Delphi and executed in Windows32 environment.
 * [decompile\_java](https://gist.github.com/larshaendler/b0679f6e36e487d00647e2f2a2989c0c), using [CFR](http://www.benf.org/other/cfr/) - another java decompiler.
 
 ### Yara
 
-* [yara](https://github.com/virustotal/yara) ⭐ 9,813 | 🐛 177 | 🌐 C | 📅 2026-07-30: The pattern matching swiss knife
+* [yara](https://github.com/virustotal/yara) ⭐ 9,814 | 🐛 174 | 🌐 C | 📅 2026-08-19: The pattern matching swiss knife
 * [Yara-Rules](https://github.com/Yara-Rules/rules) ⭐ 4,874 | 🐛 28 | 🌐 YARA | 📅 2024-04-17: Repository of yara rules
 * [ReversingLabs YARA Rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 937 | 🐛 3 | 🌐 YARA | 📅 2025-11-03
 * [ThreatHunting](https://github.com/GossiTheDog/ThreatHunting) ⭐ 631 | 🐛 0 | 🌐 YARA | 📅 2026-08-14
@@ -554,8 +554,8 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ## Frameworks
 
-* [Inject code into running Python processes](https://github.com/lmacken/pyrasite) ⭐ 2,870 | 🐛 46 | 🌐 Python | 📅 2025-04-07
-* [AIL-framework](https://github.com/CIRCL/AIL-framework) ⭐ 1,376 | 🐛 107 | 🌐 Python | 📅 2026-08-17: AIL framework - [Analysis Information Leak framework](https://github.com/ail-project/ail-framework) ⭐ 996 | 🐛 137 | 🌐 Python | 📅 2026-08-17:
+* [Inject code into running Python processes](https://github.com/lmacken/pyrasite) ⭐ 2,872 | 🐛 46 | 🌐 Python | 📅 2025-04-07
+* [AIL-framework](https://github.com/CIRCL/AIL-framework) ⭐ 1,376 | 🐛 107 | 🌐 Python | 📅 2026-08-17: AIL framework - [Analysis Information Leak framework](https://github.com/ail-project/ail-framework) ⭐ 996 | 🐛 136 | 🌐 Python | 📅 2026-08-17:
 * [malspider](https://github.com/ciscocsirt/malspider) ⭐ 417 | 🐛 20 | 🌐 Python | 📅 2022-11-04: Malspider is a web spidering framework that detects characteristics of web compromises.
 
 ## Patching
@@ -564,11 +564,11 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ## Hardening
 
-* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,292 | 🐛 34 | 📅 2026-07-13: An evolving how-to guide for securing a Linux server.
+* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,295 | 🐛 34 | 📅 2026-07-13: An evolving how-to guide for securing a Linux server.
 * [Streisand](https://github.com/StreisandEffect/streisand) ⚠️ Archived sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-* [prowler](https://github.com/toniblyx/prowler) ⭐ 14,615 | 🐛 266 | 🌐 Python | 📅 2026-08-18: AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks. Official CIS for [AWS guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf).
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⭐ 10,813 | 🐛 10 | 📅 2024-11-19: 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
-* [Securing Docker Containers](https://0x00sec.org/t/securing-docker-containers/16913). [The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.](https://github.com/docker/docker-bench-security) ⭐ 9,691 | 🐛 29 | 🌐 Shell | 📅 2026-06-04
+* [prowler](https://github.com/toniblyx/prowler) ⭐ 14,620 | 🐛 266 | 🌐 Python | 📅 2026-08-19: AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks. Official CIS for [AWS guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf).
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⭐ 10,814 | 🐛 10 | 📅 2024-11-19: 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
+* [Securing Docker Containers](https://0x00sec.org/t/securing-docker-containers/16913). [The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.](https://github.com/docker/docker-bench-security) ⭐ 9,692 | 🐛 29 | 🌐 Shell | 📅 2026-06-04
 * [Endlessh](https://github.com/skeeto/endlessh) ⭐ 8,543 | 🐛 49 | 🌐 C | 📅 2024-06-03: an SSH tarpit.
 * [ssh-audit](https://github.com/jtesta/ssh-audit) ⭐ 4,266 | 🐛 38 | 🌐 Python | 📅 2026-07-09: SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 * [List of sites with two factor auth](https://github.com/2factorauth/twofactorauth) ⭐ 3,453 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-05
@@ -579,8 +579,8 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 * [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) ⭐ 1,796 | 🐛 1 | 📅 2020-01-07: A curated list of awesome Security Hardening techniques for Windows.
 * [Iptables Essentials](https://github.com/trimstray/iptables-essentials) ⭐ 1,591 | 🐛 4 | 📅 2024-11-19: Common Firewall Rules and Commands.
 * [iptables-essentials](https://github.com/trimstray/iptables-essentials) ⭐ 1,591 | 🐛 4 | 📅 2024-11-19: Iptables Essentials: Common Firewall Rules and Commands.
-* [bdshemu](https://hvmi.github.io/blog/2020/11/11/bdshemu.html): The [Bitdefender](https://github.com/bitdefender/bddisasm) ⭐ 1,083 | 🐛 0 | 🌐 C | 📅 2026-06-29 shellcode emulator
-* [debian-cis](https://github.com/ovh/debian-cis) ⭐ 1,051 | 🐛 18 | 🌐 Shell | 📅 2026-08-17: PCI-DSS compliant Debian 7/8 hardening.
+* [bdshemu](https://hvmi.github.io/blog/2020/11/11/bdshemu.html): The [Bitdefender](https://github.com/bitdefender/bddisasm) ⭐ 1,084 | 🐛 0 | 🌐 C | 📅 2026-06-29 shellcode emulator
+* [debian-cis](https://github.com/ovh/debian-cis) ⭐ 1,051 | 🐛 19 | 🌐 Shell | 📅 2026-08-19: PCI-DSS compliant Debian 7/8 hardening.
 * [opmsg](https://github.com/stealth/opmsg) ⭐ 756 | 🐛 3 | 🌐 C++ | 📅 2023-03-02: is a replacement for gpg which can encrypt/sign/verify your mails or create/verify detached signatures of local files. Even though the opmsg output looks similar, the concept is entirely different.
 * [ERNW Repository of Hardening Guides](https://github.com/ernw/hardening) ⭐ 653 | 🐛 2 | 📅 2026-07-08: This repository contains various hardening guides compiled by ERNW for various purposes.
 * [ssh-auditor](https://github.com/ncsa/ssh-auditor) ⭐ 620 | 🐛 5 | 🌐 Go | 📅 2023-12-18: The best way to scan for weak ssh passwords on your network
@@ -628,7 +628,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### WebServers
 
-* [ENVOY](https://www.envoyproxy.io/) is an open source edge and service proxy, designed for cloud-native applications. [code](https://github.com/envoyproxy/envoy) ⭐ 28,796 | 🐛 1,867 | 🌐 C++ | 📅 2026-08-19
+* [ENVOY](https://www.envoyproxy.io/) is an open source edge and service proxy, designed for cloud-native applications. [code](https://github.com/envoyproxy/envoy) ⭐ 28,797 | 🐛 1,871 | 🌐 C++ | 📅 2026-08-19
 * [Secure Headers](https://github.com/github/secure_headers) ⭐ 3,229 | 🐛 13 | 🌐 Ruby | 📅 2026-07-27: Manages application of security headers with many safe defaults.
 * [NFHTTP](https://github.com/spotify/NFHTTP) ⭐ 586 | 🐛 16 | 🌐 C | 📅 2023-05-23: A cross platform C++ HTTP library that interfaces natively to other platforms.
 * [dotdotslash](https://github.com/jcesarstef/dotdotslash) ⭐ 462 | 🐛 9 | 🌐 Python | 📅 2026-01-11: An tool to help you search for Directory Traversal Vulnerabilities
@@ -675,8 +675,8 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ## Credentials
 
-* [bitwarden\_rs](https://github.com/dani-garcia/bitwarden_rs/) ⭐ 65,629 | 🐛 87 | 🌐 Rust | 📅 2026-08-13: Unofficial Bitwarden compatible server written in Rust
-* [XSStrike](https://github.com/s0md3v/XSStrike) ⭐ 15,143 | 🐛 94 | 🌐 Python | 📅 2025-04-26: Most advanced XSS detection suite.
+* [bitwarden\_rs](https://github.com/dani-garcia/bitwarden_rs/) ⭐ 65,644 | 🐛 87 | 🌐 Rust | 📅 2026-08-13: Unofficial Bitwarden compatible server written in Rust
+* [XSStrike](https://github.com/s0md3v/XSStrike) ⭐ 15,144 | 🐛 94 | 🌐 Python | 📅 2025-04-26: Most advanced XSS detection suite.
 * [Depix](https://github.com/beurtschipper/Depix) ⚠️ Archived: Recovers passwords from pixelized screenshots.
 * Search if your credentials where leaked: [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) ⭐ 2,136 | 🐛 11 | 🌐 Python | 📅 2025-12-09
 * [Was my password leaked?](https://davidtavarez.github.io/osint/2019/01/25/pwndb-command-line-tool-python.html) [pwndb](https://github.com/davidtavarez/pwndb) ⚠️ Archived: Search for creadentials leaked on pwndb.
@@ -696,8 +696,8 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Tokens
 
-* [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) ⭐ 12,444 | 🐛 9 | 🌐 HTML | 📅 2026-08-19: Guide to using YubiKey for GPG and SSH
-* [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide) ⭐ 12,444 | 🐛 9 | 🌐 HTML | 📅 2026-08-19
+* [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) ⭐ 12,445 | 🐛 9 | 🌐 HTML | 📅 2026-08-19: Guide to using YubiKey for GPG and SSH
+* [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide) ⭐ 12,445 | 🐛 9 | 🌐 HTML | 📅 2026-08-19
 * [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup) ⭐ 3,560 | 🐛 1 | 🌐 Shell | 📅 2026-08-11
 * [YubiKey at Datadog](https://github.com/DataDog/yubikey) ⚠️ Archived
 * [URU Card](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/): Arduino FIDO2 Authenticator. [uru-card](https://github.com/uru-card/uru-card) ⭐ 188 | 🐛 9 | 🌐 C++ | 📅 2023-01-05
@@ -709,23 +709,23 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ## Secure Programming
 
-* [Tooling for verification of PGP signed commits](https://github.com/bitcoin/bitcoin/tree/master/contrib/verify-commits) ⭐ 89,940 | 🐛 694 | 🌐 C++ | 📅 2026-08-18
-* [Checklist of the most important security countermeasures when designing, testing, and releasing your API](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,299 | 🐛 2 | 📅 2026-07-21
-* [rubocop](https://github.com/rubocop-hq/rubocop) ⭐ 12,899 | 🐛 153 | 🌐 Ruby | 📅 2026-08-18: A Ruby static code analyzer and formatter, based on the community Ruby style guide.
-* [sanitizers](https://github.com/google/sanitizers) ⭐ 12,450 | 🐛 548 | 🌐 C | 📅 2026-05-19
-* [QL](https://github.com/Semmle/ql) ⭐ 9,972 | 🐛 1,449 | 🌐 CodeQL | 📅 2026-08-19: The libraries and queries that power CodeQL and LGTM.com
-* [Awesome AppSec](https://github.com/paragonie/awesome-appsec) ⭐ 7,032 | 🐛 40 | 🌐 PHP | 📅 2025-02-22: A curated list of resources for learning about application security.
+* [Tooling for verification of PGP signed commits](https://github.com/bitcoin/bitcoin/tree/master/contrib/verify-commits) ⭐ 89,945 | 🐛 698 | 🌐 C++ | 📅 2026-08-18
+* [Checklist of the most important security countermeasures when designing, testing, and releasing your API](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,301 | 🐛 2 | 📅 2026-07-21
+* [rubocop](https://github.com/rubocop-hq/rubocop) ⭐ 12,899 | 🐛 150 | 🌐 Ruby | 📅 2026-08-19: A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+* [sanitizers](https://github.com/google/sanitizers) ⭐ 12,449 | 🐛 548 | 🌐 C | 📅 2026-05-19
+* [QL](https://github.com/Semmle/ql) ⭐ 9,973 | 🐛 1,449 | 🌐 CodeQL | 📅 2026-08-19: The libraries and queries that power CodeQL and LGTM.com
+* [Awesome AppSec](https://github.com/paragonie/awesome-appsec) ⭐ 7,034 | 🐛 40 | 🌐 PHP | 📅 2025-02-22: A curated list of resources for learning about application security.
 * [TSLint](https://github.com/palantir/tslint) ⚠️ Archived: An extensible linter for the TypeScript language.
-* [Security Scorecards](https://github.com/ossf/scorecard) ⭐ 5,644 | 🐛 444 | 🌐 Go | 📅 2026-08-17: Security health metrics for Open Source. [Check Documentation](https://github.com/ossf/scorecard/blob/main/docs/checks.md#check-documentation) ⭐ 5,644 | 🐛 444 | 🌐 Go | 📅 2026-08-17
+* [Security Scorecards](https://github.com/ossf/scorecard) ⭐ 5,645 | 🐛 445 | 🌐 Go | 📅 2026-08-17: Security health metrics for Open Source. [Check Documentation](https://github.com/ossf/scorecard/blob/main/docs/checks.md#check-documentation) ⭐ 5,645 | 🐛 445 | 🌐 Go | 📅 2026-08-17
 * [shhgit](https://github.com/eth0izzle/shhgit/) ⭐ 3,976 | 🐛 34 | 🌐 JavaScript | 📅 2025-02-28: Ah [shhgit!](https://www.shhgit.com/) Find GitHub secrets in real time.
 * [Checked C](https://www.microsoft.com/en-us/research/publication/checkedc-making-c-safe-by-extension/): Making C Safe by Extension. [github](https://github.com/Microsoft/checkedc) ⭐ 3,256 | 🐛 74 | 🌐 C | 📅 2024-10-07
 * [Wycheproof](https://github.com/google/wycheproof) ⭐ 3,101 | 🐛 14 | 🌐 Go | 📅 2026-08-18: Project Wycheproof tests crypto libraries against known attacks.
-* [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices) ⭐ 1,979 | 🐛 11 | 📅 2019-07-08: Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian. [python API Client](https://github.com/GitGuardian/py-gitguardian) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2026-08-18
+* [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices) ⭐ 1,979 | 🐛 11 | 📅 2019-07-08: Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian. [python API Client](https://github.com/GitGuardian/py-gitguardian) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2026-08-19
 * [SLSA](https://github.com/slsa-framework/slsa) ⭐ 1,912 | 🐛 174 | 🌐 HTML | 📅 2026-08-09: Supply-chain Levels for Software Artifacts, Proposal
 * [HACL\*](https://github.com/project-everest/hacl-star) ⭐ 1,835 | 🐛 47 | 🌐 F\* | 📅 2026-06-07: a formally verified cryptographic library written in F\*
-* [Sandboxed API](https://github.com/google/sandboxed-api) ⭐ 1,756 | 🐛 23 | 🌐 C++ | 📅 2026-08-18: Sandboxed API automatically generates sandboxes for C/C++ libraries
+* [Sandboxed API](https://github.com/google/sandboxed-api) ⭐ 1,756 | 🐛 23 | 🌐 C++ | 📅 2026-08-19: Sandboxed API automatically generates sandboxes for C/C++ libraries
 * [tinyalloc](https://github.com/thi-ng/tinyalloc) ⭐ 813 | 🐛 8 | 🌐 C | 📅 2024-07-24: malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
-* [tlse](https://github.com/eduardsui/tlse) ⭐ 683 | 🐛 31 | 🌐 C | 📅 2026-08-07: Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
+* [tlse](https://github.com/eduardsui/tlse) ⭐ 683 | 🐛 32 | 🌐 C | 📅 2026-08-07: Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
 * [pigaios](https://github.com/joxeankoret/pigaios) ⭐ 650 | 🐛 14 | 🌐 Python | 📅 2023-01-09: A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
 * [pigaios](https://github.com/joxeankoret/pigaios) ⭐ 650 | 🐛 14 | 🌐 Python | 📅 2023-01-09: A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
 * [Villoc](https://github.com/wapiflapi/villoc) ⭐ 617 | 🐛 5 | 🌐 Python | 📅 2024-12-05: Villoc is a heap visualisation tool, it's a python script that renders a static html file.
@@ -788,7 +788,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### SAST
 
-* [trivy](https://github.com/aquasecurity/trivy) ⭐ 37,486 | 🐛 247 | 🌐 Go | 📅 2026-08-17: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues.
+* [trivy](https://github.com/aquasecurity/trivy) ⭐ 37,497 | 🐛 249 | 🌐 Go | 📅 2026-08-19: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues.
 * [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,262 | 🐛 111 | 🌐 Ruby | 📅 2026-08-13: A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [Static analysis powered security scanner for your terraform code](https://github.com/liamg/tfsec) ⭐ 7,027 | 🐛 18 | 🌐 Go | 📅 2026-03-25
 * [ikos](https://github.com/NASA-SW-VnV/ikos) ⭐ 3,161 | 🐛 50 | 🌐 C++ | 📅 2026-05-31: Static analyzer for C/C++ based on the theory of Abstract Interpretation.
@@ -812,15 +812,15 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 ### Secure Web dev
 
 * [secDevLabs](https://github.com/globocom/secDevLabs) ⭐ 979 | 🐛 30 | 🌐 PHP | 📅 2024-09-25: A laboratory for learning secure web development in a practical manner.
-* [Datashare Server Mode](https://github.com/ICIJ/datashare/wiki/Datashare-Server-Mode) ⭐ 751 | 🐛 68 | 🌐 Java | 📅 2026-08-18
+* [Datashare Server Mode](https://github.com/ICIJ/datashare/wiki/Datashare-Server-Mode) ⭐ 751 | 🐛 70 | 🌐 Java | 📅 2026-08-19
 * [VulnyCode](https://github.com/swisskyrepo/Vulny-Code-Static-Analysis) ⭐ 425 | 🐛 0 | 🌐 PHP | 📅 2025-02-27: PHP Code Static Analysis. Python script to detect vulnerabilities inside PHP source code using static analysis, based on regex
 * [oxAuth](https://github.com/GluuFederation/oxAuth) ⭐ 425 | 🐛 38 | 🌐 Java | 📅 2025-04-03: OAuth 2.0 server and client; OpenID Connect Provider (OP) & UMA Authorization Server (AS).
 * [PwnMachine](https://github.com/yeswehack/pwn-machine) ⭐ 329 | 🐛 11 | 🌐 Vue | 📅 2024-07-31: PwnMachine is a self hosting solution based on docker aiming to provide an easy to use pwning station for bughunters.
 * OWASP:
-  * [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg) ⭐ 9,707 | 🐛 34 | 🌐 CSS | 📅 2026-08-18: The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services. [portal](https://owasp.org/www-project-web-security-testing-guide/)
-  * [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) ⭐ 2,200 | 🐛 5 | 📅 2022-08-18: OWASP Web Application Security Testing Checklist.
+  * [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg) ⭐ 9,709 | 🐛 34 | 🌐 Python | 📅 2026-08-19: The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services. [portal](https://owasp.org/www-project-web-security-testing-guide/)
+  * [OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) ⭐ 2,201 | 🐛 5 | 📅 2022-08-18: OWASP Web Application Security Testing Checklist.
   * [Projects/OWASP Node js Goat Project](https://wiki.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project), [repo](https://github.com/OWASP/NodeGoat) ⭐ 2,061 | 🐛 105 | 🌐 HTML | 📅 2024-06-15
-  * [OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist) ⭐ 1,805 | 🐛 3 | 📅 2023-02-09
+  * [OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist) ⭐ 1,806 | 🐛 3 | 📅 2023-02-09
   * [vAPI](https://github.com/roottusk/vapi) ⭐ 1,350 | 🐛 15 | 🌐 HTML | 📅 2025-01-10 is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios in the means of Exercises.
   * [OWASP Risk Assessment Calculator](https://javierolmedo.github.io/OWASP-Calculator/). [code](https://github.com/JavierOlmedo/OWASP-Calculator) ⭐ 162 | 🐛 4 | 🌐 HTML | 📅 2021-08-09
   * [DependencyCheck](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived: OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -829,7 +829,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
   * [OWASP API Security Project](https://owasp.org/www-project-api-security/)
   * [Exploiting OWASP Top 10 API Vulnerabilities](https://cyc0rpion.medium.com/exploiting-owasp-top-10-api-vulnerabilities-fb9d4b1dd471).
   * CheatSheets:
-    * [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries/) ⭐ 32,924 | 🐛 75 | 🌐 Python | 📅 2026-08-17: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+    * [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries/) ⭐ 32,924 | 🐛 76 | 🌐 Python | 📅 2026-08-17: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
     * [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
     * [Database Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Database_Security_Cheat_Sheet.html)
   * [OWASP Cornucopia](https://owasp.org/www-project-cornucopia/)
@@ -855,16 +855,16 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Fuzzing
 
-* [ffuf](https://github.com/ffuf/ffuf) ⭐ 16,546 | 🐛 231 | 🌐 Go | 📅 2026-07-19: Fast web fuzzer written in Go
-* [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) ⭐ 6,722 | 🐛 25 | 🌐 C | 📅 2026-08-18: The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn\_mode, and a lot more!
+* [ffuf](https://github.com/ffuf/ffuf) ⭐ 16,545 | 🐛 231 | 🌐 Go | 📅 2026-07-19: Fast web fuzzer written in Go
+* [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) ⭐ 6,725 | 🐛 25 | 🌐 C | 📅 2026-08-18: The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn\_mode, and a lot more!
 * [Fuzzing-101](https://github.com/antonio-morales/Fuzzing101) ⭐ 3,812 | 🐛 28 | 📅 2026-06-16: Do you want to learn how to fuzz like a real expert, but don't know how to start?
 * [RESTler finds security and reliability bugs through automated fuzzing](https://www.microsoft.com/en-us/research/blog/restler-finds-security-and-reliability-bugs-through-automated-fuzzing/). [RESTler](https://github.com/microsoft/restler-fuzzer) ⭐ 2,934 | 🐛 298 | 🌐 Python | 📅 2026-06-10: is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. [REST API Fuzz Testing (RAFT)](https://github.com/microsoft/rest-api-fuzz-testing) ⚠️ Archived: Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows.
 * [onefuzz](https://github.com/microsoft/onefuzz) ⚠️ Archived: A self-hosted Fuzzing-As-A-Service platform.
 * [Start-Hollow.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Start-Hollow.ps1) ⭐ 2,731 | 🐛 8 | 🌐 PowerShell | 📅 2021-11-19: My musings with PowerShell
-* [Fuzzilli](https://github.com/googleprojectzero/fuzzilli) ⭐ 2,332 | 🐛 75 | 🌐 Swift | 📅 2026-08-19: A JavaScript Engine Fuzzer.
+* [Fuzzilli](https://github.com/googleprojectzero/fuzzilli) ⭐ 2,332 | 🐛 74 | 🌐 Swift | 📅 2026-08-19: A JavaScript Engine Fuzzer.
 * [Structure-Aware Fuzzing with libFuzzer](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/structure-aware-fuzzing.md) ⚠️ Archived with [fuzzer test suite](https://github.com/google/fuzzer-test-suite) ⚠️ Archived
 * [Jackalope](https://github.com/googleprojectzero/Jackalope) ⭐ 1,379 | 🐛 28 | 🌐 C++ | 📅 2026-07-03: Binary, coverage-guided fuzzer for Windows and macOS
-* [Generating Software Tests](https://www.fuzzingbook.org/) ([github](https://github.com/uds-se/fuzzingbook/) ⭐ 1,266 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2026-01-22)
+* [Generating Software Tests](https://www.fuzzingbook.org/) ([github](https://github.com/uds-se/fuzzingbook/) ⭐ 1,267 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2026-01-22)
 * [AFLNet](https://github.com/aflnet/aflnet) ⭐ 1,010 | 🐛 43 | 🌐 C | 📅 2025-05-26: A Greybox Fuzzer for Network Protocols.
 * [auditd-attack](https://github.com/bfuzzy/auditd-attack) ⭐ 823 | 🐛 3 | 📅 2020-07-08: A Linux Auditd rule set mapped to MITRE's Attack Framework
 * [s a n d s i f t e r](https://github.com/Battelle/sandsifter) ⭐ 533 | 🐛 0 | 🌐 Python | 📅 2018-10-11: The x86 processor fuzzer.
@@ -874,8 +874,8 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 * [javafuzz](https://github.com/fuzzitdev/javafuzz) ⚠️ Archived: Javafuzz is coverage-guided fuzzer for testing Java packages.
 * [Materials from Fuzzing Bay Area meetups](https://github.com/MotherFuzzers/meetups) ⭐ 68 | 🐛 0 | 📅 2019-12-20.
 * [Regaxor](https://github.com/0xSobky/Regaxor) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-13: A regular expression fuzzer
-* [Dizzy-legacy](https://github.com/ernw/dizzy-legacy) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2017-07-27: Network and USB protocol fuzzing toolkit.
-* [Dizzy-legacy](https://github.com/ernw/dizzy-legacy) ⭐ 34 | 🐛 2 | 🌐 Python | 📅 2017-07-27: Network and USB protocol fuzzing toolkit.
+* [Dizzy-legacy](https://github.com/ernw/dizzy-legacy) ⭐ 35 | 🐛 2 | 🌐 Python | 📅 2017-07-27: Network and USB protocol fuzzing toolkit.
+* [Dizzy-legacy](https://github.com/ernw/dizzy-legacy) ⭐ 35 | 🐛 2 | 🌐 Python | 📅 2017-07-27: Network and USB protocol fuzzing toolkit.
 * [rFuss2](https://github.com/carstein/rfuss2) ⭐ 23 | 🐛 0 | 🌐 Rust | 📅 2021-03-17: Simple rust fuzzer
 * [afl-unicorn](https://hackernoon.com/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf): Fuzzing Arbitrary Binary Code
 * [Fuzzing Like A Caveman 3: Trying to Somewhat Understand The Importance Code Coverage](https://h0mbre.github.io/Fuzzing-Like-A-Caveman-3/#)
@@ -893,9 +893,9 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### API
 
-* [Istio](https://github.com/istio/istio) ⭐ 38,357 | 🐛 490 | 🌐 Go | 📅 2026-08-19: An open platform to connect, manage, and secure microservices.
-* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,299 | 🐛 2 | 📅 2026-07-21: Checklist of the most important security countermeasures when designing, testing, and releasing your API
-* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,299 | 🐛 2 | 📅 2026-07-21: Checklist of the most important security countermeasures when designing, testing, and releasing your API
+* [Istio](https://github.com/istio/istio) ⭐ 38,359 | 🐛 485 | 🌐 Go | 📅 2026-08-19: An open platform to connect, manage, and secure microservices.
+* [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,301 | 🐛 2 | 📅 2026-07-21: Checklist of the most important security countermeasures when designing, testing, and releasing your API
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,301 | 🐛 2 | 📅 2026-07-21: Checklist of the most important security countermeasures when designing, testing, and releasing your API
 * [MindAPI](https://github.com/dsopas/MindAPI) ⭐ 880 | 🐛 0 | 📅 2026-05-27: Organize your API security assessment by using MindAPI. It's free and open for community collaboration.
 * [hack-requests](https://github.com/boy-hack/hack-requests) ⭐ 472 | 🐛 19 | 🌐 Python | 📅 2023-05-08: The hack-requests is an http network library for hackers
 * [The Web API Checklist](https://mathieu.fenniak.net/the-api-checklist/): 43 Things To Think About When Designing, Testing, and Releasing your API
@@ -914,7 +914,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 #### REST
 
-* [REST Security Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md) ⭐ 32,924 | 🐛 75 | 🌐 Python | 📅 2026-08-17: CheatSheetSeries
+* [REST Security Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md) ⭐ 32,924 | 🐛 76 | 🌐 Python | 📅 2026-08-17: CheatSheetSeries
 * [bad\_json\_parsers](https://github.com/lovasoa/bad_json_parsers) ⭐ 371 | 🐛 9 | 🌐 Python | 📅 2022-12-08: Exposing problems in json parsers of several programming languages.
 * [REST API Testing Tutorial](https://www.guru99.com/testing-rest-api-manually.html): Sample Manual Test Case
 * [Penetration Testing RESTful Web Services](http://blog.isecurion.com/2017/10/10/penetration-testing-restful-web-services/)
@@ -923,9 +923,9 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ## CTFs
 
-* [pwntools](https://github.com/Gallopsled/pwntools) ⭐ 13,644 | 🐛 118 | 🌐 Python | 📅 2026-08-16: CTF framework and exploit development library
+* [pwntools](https://github.com/Gallopsled/pwntools) ⭐ 13,644 | 🐛 119 | 🌐 Python | 📅 2026-08-16: CTF framework and exploit development library
 * [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) ⭐ 7,077 | 🐛 3 | 🌐 Python | 📅 2026-08-12: RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
-* [google-ctf](https://github.com/google/google-ctf) ⭐ 5,006 | 🐛 1 | 🌐 Python | 📅 2026-02-11
+* [google-ctf](https://github.com/google/google-ctf) ⭐ 5,007 | 🐛 1 | 🌐 Python | 📅 2026-02-11
 * [HackTheBox CTF Cheatsheet](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups) ⭐ 1,831 | 🐛 5 | 📅 2026-03-14: This cheasheet is aimed at the CTF Players and Beginners to help them sort Hack The Box Labs on the basis of Operating System and Difficulty.
 * [ctftool](https://github.com/taviso/ctftool) ⭐ 1,667 | 🐛 15 | 🌐 C | 📅 2021-09-17: Interactive CTF Exploration Tool.
 * [Crypton](https://github.com/ashutosh1206/Crypton) ⚠️ Archived: Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges from CTFs.
@@ -971,7 +971,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### CTFs tools
 
-* [sec-tools](https://github.com/eugenekolo/sec-tools) ⭐ 685 | 🐛 8 | 🌐 HTML | 📅 2021-03-08: A set of security related tools.
+* [sec-tools](https://github.com/eugenekolo/sec-tools) ⭐ 686 | 🐛 8 | 🌐 HTML | 📅 2021-03-08: A set of security related tools.
 * [Ciphr](https://github.com/frohoff/ciphr) ⭐ 120 | 🐛 5 | 🌐 Ruby | 📅 2018-08-04: CLI crypto swiss-army knife for performing and composing encoding, decoding, encryption, decryption, hashing, and other various cryptographic operations on streams of data from the command line; mostly intended for ad hoc, infosec-related uses.
 * [Super-Guesser-ctf](https://github.com/Super-Guesser/ctf) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2022-06-19
 * [thg-framework](https://github.com/darkcode357/thg-framework) ⭐ 8 | 🐛 8 | 🌐 Python | 📅 2023-02-10
@@ -991,7 +991,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 ## Archs
 
 * [me\_cleaner](https://github.com/corna/me_cleaner) ⭐ 5,026 | 🐛 254 | 🌐 Python | 📅 2024-05-28: Tool for partial deblobbing of Intel ME/TXE firmware images.
-* [Hacker Finds Hidden 'God Mode' on Old x86 CPUs](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html) ->  [rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) ⭐ 2,603 | 🐛 13 | 🌐 C | 📅 2018-10-12: Hardware backdoors in some x86 CPUs
+* [Hacker Finds Hidden 'God Mode' on Old x86 CPUs](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html) ->  [rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) ⭐ 2,606 | 🐛 13 | 🌐 C | 📅 2018-10-12: Hardware backdoors in some x86 CPUs
 * [The Hacker's Hardware Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) ⭐ 2,174 | 🐛 5 | 📅 2020-09-07: The best hacker's gadgets for Red Team pentesters and security researchers.
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges) ⭐ 955 | 🐛 3 | 🌐 C | 📅 2021-11-15
 * [arm vm working out of the box for everyone](https://github.com/nongiach/arm_now) ⭐ 889 | 🐛 21 | 🌐 Python | 📅 2022-09-16
@@ -1021,10 +1021,10 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Hardware
 
-* [awesome flipper](https://github.com/djsime1/awesome-flipperzero) ⭐ 24,111 | 🐛 16 | 📅 2024-09-27: 🐬 A collection of awesome resources for the Flipper Zero device.
-* [Dark Flipper](https://github.com/DarkFlippers/unleashed-firmware) ⭐ 22,072 | 🐛 23 | 🌐 C | 📅 2026-08-18:  Flipper Zero Unleashed Firmware
+* [awesome flipper](https://github.com/djsime1/awesome-flipperzero) ⭐ 24,115 | 🐛 16 | 📅 2024-09-27: 🐬 A collection of awesome resources for the Flipper Zero device.
+* [Dark Flipper](https://github.com/DarkFlippers/unleashed-firmware) ⭐ 22,077 | 🐛 23 | 🌐 C | 📅 2026-08-18:  Flipper Zero Unleashed Firmware
 * [Valetudo](https://valetudo.cloud): Cloud replacement for vacuum robots enabling local-only operation. [repo](https://github.com/Hypfer/Valetudo) ⭐ 9,547 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15
-* [My Flipper Shits](https://github.com/aleff-github/my-flipper-shits/) ⭐ 1,816 | 🐛 0 | 🌐 HTML | 📅 2026-07-01: Free and libre source BadUSB payloads for Flipper Zero. \[Windows, GNU/Linux, iOS]
+* [My Flipper Shits](https://github.com/aleff-github/my-flipper-shits/) ⭐ 1,817 | 🐛 0 | 🌐 HTML | 📅 2026-07-01: Free and libre source BadUSB payloads for Flipper Zero. \[Windows, GNU/Linux, iOS]
 * [Hacker's guide to deep-learning side-channel attacks: the theory](https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/). [SCAAML](https://github.com/google/scaaml) ⭐ 205 | 🐛 49 | 🌐 Python | 📅 2026-08-11: Side Channel Attacks Assisted with Machine Learning
 * [HammerKit](https://github.com/google/hammer-kit) ⚠️ Archived: HammerKit is an open-source library for inducing and characterizing rowhammer that provides out-of-the-box support for Chrome OS platforms.
 * [Analyzing a buffer overflow in the DLINK DIR-645 with Qiling framework, Part I](https://github.com/nahueldsanchez/blogpost_qiling_dlink_1) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2020-11-18
@@ -1044,15 +1044,15 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
   * [A Practical Guide to BLE Throughput](https://interrupt.memfault.com/blog/ble-throughput-primer)
   * [Exploiting IoT enabled BLE smart bulb security](https://blog.attify.com/exploiting-iot-enabled-ble-smart-bulb-security/)
 * Wireless / Wifi:
-  * [ESP8266 Deauther Version 2](https://github.com/SpacehuhnTech/esp8266_deauther) ⭐ 14,924 | 🐛 99 | 🌐 C | 📅 2024-08-14: Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
+  * [ESP8266 Deauther Version 2](https://github.com/SpacehuhnTech/esp8266_deauther) ⭐ 14,923 | 🐛 99 | 🌐 C | 📅 2024-08-14: Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
   * [hcxdumptool](https://github.com/ZerBea/hcxdumptool) ⭐ 2,179 | 🐛 0 | 🌐 C | 📅 2026-08-14: small tool to capture packets from wlan devices.
-  * [infernal-twin](https://github.com/entropy1337/infernal-twin) ⭐ 1,286 | 🐛 22 | 🌐 Python | 📅 2022-10-27: wireless hacking - This is automated wireless hacking tool
+  * [infernal-twin](https://github.com/entropy1337/infernal-twin) ⭐ 1,285 | 🐛 22 | 🌐 Python | 📅 2022-10-27: wireless hacking - This is automated wireless hacking tool
   * [Airspy-Utils](https://github.com/kholia/airspy-utils) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-03-25: is a small software collection to help with firmware related operations on Airspy HF+ devices.
   * [Cracking WiFi at Scale with One Simple Trick](https://www.cyberark.com/resources/threat-research-blog/cracking-wifi-at-scale-with-one-simple-trick)
   * [Unlocking free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 * Drone:
   * [whereami](https://github.com/kootenpv/whereami) ⭐ 5,140 | 🐛 17 | 🌐 Python | 📅 2023-11-30: Uses WiFi signals and machine learning to predict where you are.
-  * [eaphammer](https://github.com/s0lst1c3/eaphammer) ⭐ 2,545 | 🐛 41 | 🌐 C | 📅 2024-09-22: Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
+  * [eaphammer](https://github.com/s0lst1c3/eaphammer) ⭐ 2,547 | 🐛 41 | 🌐 C | 📅 2024-09-22: Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
   * [SkyJack](http://www.samy.pl/skyjack/) is a drone engineered to autonomously seek out, hack, and wirelessly take over other drones within wifi distance, creating an army of zombie drones under your control. [git repo](https://github.com/samyk/skyjack) ⭐ 1,829 | 🐛 4 | 🌐 JavaScript | 📅 2017-11-21
 * Car Hacking:
   * [Hacking a VW Golf Power Steering ECU](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/) - Part 1, [Part 2](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part2/) [Part 3](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part3/) and [Part 4](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part4/). [VW PQ35 EPS flasher](https://github.com/pd0wm/pq-flasher) ⭐ 142 | 🐛 6 | 🌐 Python | 📅 2024-03-11
@@ -1082,28 +1082,28 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ## Pentesting
 
-* [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09: A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques!
-* [postwoman](https://github.com/liyasthomas/postwoman) ⭐ 80,055 | 🐛 795 | 🌐 TypeScript | 📅 2026-08-16: alien API request builder - A free, fast, and beautiful alternative to Postman.
-* [Seclists](https://github.com/danielmiessler/SecLists) ⭐ 72,921 | 🐛 12 | 🌐 PHP | 📅 2026-08-18 is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 72,921 | 🐛 12 | 🌐 PHP | 📅 2026-08-18: is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,730 | 🐛 467 | 🌐 Python | 📅 2026-08-13: [An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers](https://mitmproxy.org/).
-* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) ⭐ 26,936 | 🐛 99 | 📅 2026-07-25: A collection of awesome penetration testing resources, tools and other shiny things.
-* [RustScan](https://github.com/RustScan/RustScan) ⭐ 20,292 | 🐛 60 | 🌐 Rust | 📅 2026-07-29:  The Modern Day Port Scanner.
+* [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09: A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques!
+* [postwoman](https://github.com/liyasthomas/postwoman) ⭐ 80,056 | 🐛 796 | 🌐 TypeScript | 📅 2026-08-16: alien API request builder - A free, fast, and beautiful alternative to Postman.
+* [Seclists](https://github.com/danielmiessler/SecLists) ⭐ 72,929 | 🐛 12 | 🌐 PHP | 📅 2026-08-19 is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 72,929 | 🐛 12 | 🌐 PHP | 📅 2026-08-19: is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,735 | 🐛 468 | 🌐 Python | 📅 2026-08-13: [An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers](https://mitmproxy.org/).
+* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) ⭐ 26,943 | 🐛 99 | 📅 2026-07-25: A collection of awesome penetration testing resources, tools and other shiny things.
+* [RustScan](https://github.com/RustScan/RustScan) ⭐ 20,293 | 🐛 60 | 🌐 Rust | 📅 2026-07-29:  The Modern Day Port Scanner.
 * [Micro8](https://github.com/Micropoor/Micro8) ⭐ 18,055 | 🐛 17 | 📅 2021-04-10: The Micro8 series is suitable for junior and intermediate security practitioners, Party B security testing, Party A security self-test, network security enthusiasts, etc., enterprise security protection and improvement, the series complies with: Free, free, shared, open source.
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,011 | 🐛 320 | 🌐 Python | 📅 2026-08-14: is a collection of Python classes for working with network protocols.
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,012 | 🐛 313 | 🌐 Python | 📅 2026-08-19: is a collection of Python classes for working with network protocols.
 * [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) ⭐ 13,932 | 🐛 28 | 📅 2023-04-03: This repository was created and developed by Ammar Amer @cry\_\_pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
-* [HAck Tricks](https://book.hacktricks.xyz/pentesting-methodology)([Pentesting Methodology](https://github.com/carlospolop/hacktricks) ⭐ 12,125 | 🐛 20 | 🌐 CSS | 📅 2026-08-19): Here you will find the typical flow that you should follow when pentesting one or more machines.
-* [Nikto](https://github.com/sullo/nikto) ⭐ 10,666 | 🐛 1 | 🌐 Perl | 📅 2026-08-18: web server scanner.
+* [HAck Tricks](https://book.hacktricks.xyz/pentesting-methodology)([Pentesting Methodology](https://github.com/carlospolop/hacktricks) ⭐ 12,126 | 🐛 20 | 🌐 CSS | 📅 2026-08-19): Here you will find the typical flow that you should follow when pentesting one or more machines.
+* [Nikto](https://github.com/sullo/nikto) ⭐ 10,667 | 🐛 1 | 🌐 Perl | 📅 2026-08-18: web server scanner.
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived: A swiss army knife for pentesting networks
-* [fleet](https://github.com/fleetdm/fleet) ⭐ 6,743 | 🐛 3,440 | 🌐 Go | 📅 2026-08-19: The premier osquery [fleet manager](https://fleetdm.com/).
-* [Interactsh](https://github.com/projectdiscovery/interactsh) ⭐ 4,493 | 🐛 14 | 🌐 Go | 📅 2026-08-10: An OOB interaction gathering server and client library.
+* [fleet](https://github.com/fleetdm/fleet) ⭐ 6,746 | 🐛 3,453 | 🌐 Go | 📅 2026-08-19: The premier osquery [fleet manager](https://fleetdm.com/).
+* [Interactsh](https://github.com/projectdiscovery/interactsh) ⭐ 4,494 | 🐛 14 | 🌐 Go | 📅 2026-08-10: An OOB interaction gathering server and client library.
 * [P4wnP1 A.L.O.A.](https://github.com/RoganDawes/P4wnP1_aloa) ⭐ 4,417 | 🐛 210 | 🌐 JavaScript | 📅 2023-10-26 by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 * [IVRE](https://ivre.rocks/): Network recon framework ([github](https://github.com/cea-sec/ivre) ⭐ 4,113 | 🐛 55 | 🌐 Python | 📅 2026-08-05).
-* [EMBA](https://github.com/e-m-b-a/emba) ⭐ 3,597 | 🐛 27 | 🌐 Shell | 📅 2026-08-18: The security analyzer for embedded device firmware.
-* [IoTSecurity101](https://github.com/V33RU/IoTSecurity101) ⭐ 3,515 | 🐛 0 | 📅 2026-08-18: From IoT Pentesting to IoT Security
-* [pentest-tools](https://github.com/gwen001/pentest-tools) ⭐ 3,320 | 🐛 3 | 🌐 Python | 📅 2023-05-01: Custom pentesting tools.
+* [EMBA](https://github.com/e-m-b-a/emba) ⭐ 3,598 | 🐛 27 | 🌐 Shell | 📅 2026-08-18: The security analyzer for embedded device firmware.
+* [IoTSecurity101](https://github.com/V33RU/IoTSecurity101) ⭐ 3,516 | 🐛 0 | 📅 2026-08-18: From IoT Pentesting to IoT Security
+* [pentest-tools](https://github.com/gwen001/pentest-tools) ⭐ 3,321 | 🐛 3 | 🌐 Python | 📅 2023-05-01: Custom pentesting tools.
 * [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) ⭐ 3,086 | 🐛 14 | 🌐 Nim | 📅 2024-05-13: My experiments in weaponizing Nim.
-* [Snaffler](https://github.com/SnaffCon/Snaffler) ⭐ 2,910 | 🐛 33 | 🌐 C# | 📅 2026-02-27: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4\_hax )
+* [Snaffler](https://github.com/SnaffCon/Snaffler) ⭐ 2,911 | 🐛 33 | 🌐 C# | 📅 2026-02-27: a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4\_hax )
 * [Penetration Test Guide based on the OWASP + Extra](https://github.com/Voorivex/pentest-guide) ⭐ 2,825 | 🐛 2 | 📅 2022-03-23: This guid is for the penetration testers seeking for the appropriate test cases required during a penetration test project. I rearranged the OWASP Testing Guide v4 from my point of view including 9 Test Classes and each class has several Test Cases to conduct against the target. Each Test Case covers several OWASP tests which also is useful for the report document. I've also added 15 extra Tests Cases marked by the EXTRA-TEST. I hope it will be useful in both penetration test projects and bug-bounty.
   * [Insecure Direct Object References](https://github.com/Voorivex/pentest-guide/tree/master/Insecure-Direct-Object-References) ⭐ 2,825 | 🐛 2 | 📅 2022-03-23 (OTG-AUTHZ-004)
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,741 | 🐛 18 | 🌐 Python | 📅 2026-03-22: Like nmap for mapping wifi networks you're not connected to, plus device tracking
@@ -1207,7 +1207,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Reconnaissance
 
-* [subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,227 | 🐛 8 | 🌐 Go | 📅 2026-08-12 is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* [subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,231 | 🐛 8 | 🌐 Go | 📅 2026-08-12 is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 * [urlhunter](https://github.com/utkusen/urlhunter) ⭐ 1,698 | 🐛 0 | 🌐 Go | 📅 2025-01-23: a recon tool that allows searching on URLs that are exposed via shortener services
 * [degoogle](https://github.com/deepseagirl/degoogle) ⭐ 506 | 🐛 5 | 🌐 Python | 📅 2022-07-12: search Google and extract results directly. skip all the click-through links and other sketchiness.
 * [Automated Reconnaissance Pipeline](https://github.com/epi052/recon-pipeline) ⭐ 454 | 🐛 12 | 🌐 Python | 📅 2023-02-13: An automated target reconnaissance pipeline.
@@ -1217,7 +1217,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Enumeration
 
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,023 | 🐛 253 | 🌐 Python | 📅 2024-08-02: Fast subdomains enumeration tool for penetration testers
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) ⭐ 11,021 | 🐛 253 | 🌐 Python | 📅 2024-08-02: Fast subdomains enumeration tool for penetration testers
 * [feroxbuster](https://github.com/epi052/feroxbuster) ⭐ 8,019 | 🐛 44 | 🌐 Rust | 📅 2026-04-15: A fast, simple, recursive content discovery tool written in Rust.
 * [LinEnum](https://github.com/rebootuser/LinEnum) ⭐ 8,005 | 🐛 25 | 🌐 Shell | 📅 2023-09-06: Scripted Local Linux Enumeration & Privilege Escalation Checks
 * [Social Mapper](https://www.kitploit.com/2018/08/social-mapper-social-media-enumeration.html) - A Social Media Enumeration & Correlation Tool. [github repo](https://github.com/SpiderLabs/social_mapper) ⭐ 4,074 | 🐛 48 | 🌐 Python | 📅 2022-02-25
@@ -1347,10 +1347,10 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### Reporting
 
-* [A List of Post-mortems!](https://github.com/danluu/post-mortems) ⭐ 12,249 | 🐛 11 | 📅 2026-06-22: A collection of postmortems. Sorry for the delay in merging PRs!
+* [A List of Post-mortems!](https://github.com/danluu/post-mortems) ⭐ 12,252 | 🐛 11 | 📅 2026-06-22: A collection of postmortems. Sorry for the delay in merging PRs!
 * [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,686 | 🐛 16 | 🌐 HTML | 📅 2026-06-07.
   Curated list of public penetration test reports released by several consulting firms and academic security groups
-* [Offensive Security Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) ⭐ 4,181 | 🐛 2 | 🌐 Ruby | 📅 2026-08-12: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report.
+* [Offensive Security Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) ⭐ 4,182 | 🐛 2 | 🌐 Ruby | 📅 2026-08-12: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report.
 * [PwnDoc](https://pwndoc.github.io/pwndoc/): [PwnDoc](https://github.com/pwndoc/pwndoc) ⭐ 2,874 | 🐛 121 | 🌐 JavaScript | 📅 2026-08-14 is a pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report.
 * [report-ng](https://github.com/hvqzao/report-ng) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2024-02-09: Generate MS Word template-based reports with HP WebInspect / Burp Suite Pro input, own custom data and knowledge base.
 * [PandocPentestReport](https://github.com/herrfeder/PandocPentestReport) ⭐ 12 | 🐛 0 | 🌐 TeX | 📅 2019-08-25: This repository shows my effort to create a pandoc based pentest report template.
@@ -1360,14 +1360,14 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### OSINT - Open Source INTelligence
 
-* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 89,774 | 🐛 329 | 🌐 Python | 📅 2026-08-18: Hunt down social media accounts by username across social networks
-* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,161 | 🐛 3 | 📅 2026-08-18: 😱 A curated list of amazingly awesome OSINT
+* [sherlock](https://github.com/sherlock-project/sherlock) ⭐ 89,798 | 🐛 329 | 🌐 Python | 📅 2026-08-19: Hunt down social media accounts by username across social networks
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,166 | 🐛 3 | 📅 2026-08-18: 😱 A curated list of amazingly awesome OSINT
 * [TWINT](https://github.com/twintproject/twint) ⚠️ Archived: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 * [Gitrob](https://github.com/michenriksen/gitrob) ⚠️ Archived: Putting the Open Source in OSINT
-* [snscrape](https://github.com/JustAnotherArchivist/snscrape) ⭐ 5,440 | 🐛 73 | 🌐 Python | 📅 2023-11-15: A social networking service scraper in Python
+* [snscrape](https://github.com/JustAnotherArchivist/snscrape) ⭐ 5,442 | 🐛 73 | 🌐 Python | 📅 2023-11-15: A social networking service scraper in Python
 * [viper](https://github.com/FunnyWolf/Viper) ⭐ 5,259 | 🐛 6 | 📅 2026-05-31: Intranet pentesting tool with webui 开源图形化内网渗透工具
 * [datasploit](https://github.com/DataSploit/datasploit) ⭐ 3,315 | 🐛 107 | 🌐 Python | 📅 2025-11-20: An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.
-* (pt-br) [OSINT-Brazuca](https://github.com/osintbrazuca/OSINT-Brazuca) ⭐ 2,660 | 🐛 0 | 🌐 Python | 📅 2026-08-09: Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
+* (pt-br) [OSINT-Brazuca](https://github.com/osintbrazuca/OSINT-Brazuca) ⭐ 2,661 | 🐛 0 | 🌐 Python | 📅 2026-08-09: Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
 * [sn0int](https://github.com/kpcyrd/sn0int) ⭐ 2,511 | 🐛 54 | 🌐 Rust | 📅 2026-05-15: Semi-automatic OSINT framework and package manager
 * [DetectDee](https://github.com/piaolin/DetectDee) ⭐ 1,802 | 🐛 15 | 🌐 Go | 📅 2023-08-26: Hunt down social media accounts by username, email or phone across social networks.
 * [⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾](https://github.com/Dheerajmadhukar/karma_v2) ⭐ 1,019 | 🐛 8 | 🌐 Shell | 📅 2025-05-21 is a Passive Open Source Intelligence (OSINT) Automated Reconnaissance (framework)
@@ -1408,7 +1408,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 #### OSINT Webscraping
 
-* [h8mail](https://github.com/khast3x/h8mail) ⭐ 5,256 | 🐛 39 | 🌐 Python | 📅 2023-08-15: Password Breach Hunting & Email OSINT tool, locally or using premium services. Supports chasing down related email
+* [h8mail](https://github.com/khast3x/h8mail) ⭐ 5,259 | 🐛 39 | 🌐 Python | 📅 2023-08-15: Password Breach Hunting & Email OSINT tool, locally or using premium services. Supports chasing down related email
 * [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) ⭐ 2,621 | 🐛 6 | 🌐 Python | 📅 2026-03-28 OSINT Tool for Finding Passwords of Compromised Email Addresses.
 * [PwnBin](https://github.com/kahunalu/pwnbin) ⭐ 451 | 🐛 4 | 🌐 Python | 📅 2021-08-24: Python Pastebin Webcrawler that returns list of public pastebins containing keywords
 * [galer](https://github.com/dwisiswant0/galer) ⭐ 263 | 🐛 2 | 🌐 Go | 📅 2025-01-23: A fast tool to fetch URLs from HTML attributes by crawl-in.
@@ -1464,7 +1464,7 @@ Another great list: [awesome-incident-response](https://github.com/meirwah/aweso
 
 ### WAFs
 
-* [Sitadel](https://github.com/shenril/Sitadel) ⭐ 612 | 🐛 9 | 🌐 Python | 📅 2026-08-18: Web Application Security Scanner.
+* [Sitadel](https://github.com/shenril/Sitadel) ⭐ 612 | 🐛 11 | 🌐 Python | 📅 2026-08-19: Web Application Security Scanner.
 * [quarantyne](https://github.com/quarantyne/quarantyne) ⚠️ Archived: Modern Web Firewall: stop account takeovers, weak passwords, cloud IPs, DoS attacks, disposable emails
 * [Web Application Penetration Testing Course URLs](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
 * [Web Application Penetration Testing Notes](https://techvomit.net/web-application-penetration-testing-notes/)
@@ -1526,18 +1526,18 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Exploits
 
-* [PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,341 | 🐛 2 | 🌐 C# | 📅 2026-08-17: Privilege Escalation Awesome Scripts SUITE.
+* [PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) ⭐ 20,343 | 🐛 2 | 🌐 C# | 📅 2026-08-17: Privilege Escalation Awesome Scripts SUITE.
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) ⚠️ Archived: is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
-* [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,454 | 🐛 25 | 🌐 C | 📅 2024-05-29: The single instruction C compiler
+* [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) ⭐ 10,466 | 🐛 25 | 🌐 C | 📅 2024-05-29: The single instruction C compiler
 * [The Exploit Database Git Repository](https://github.com/offensive-security/exploitdb) ⚠️ Archived
 * [Pacu](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,305 | 🐛 37 | 🌐 Python | 📅 2026-05-19: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. [installation guide](https://github.com/RhinoSecurityLabs/pacu/wiki/Installation) ⭐ 5,305 | 🐛 37 | 🌐 Python | 📅 2026-05-19, [starting guide](https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html)
 * [fuxploider](https://github.com/almandin/fuxploider) ⭐ 3,328 | 🐛 14 | 🌐 Python | 📅 2025-05-08: File upload vulnerability scanner and exploitation tool.
 * [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) ⭐ 2,343 | 🐛 48 | 🌐 Boo | 📅 2023-12-06: A post-exploitation agent powered by Python, IronPython, C#/.NET
-* [preeny](https://github.com/zardus/preeny) ⭐ 1,650 | 🐛 20 | 🌐 C | 📅 2026-03-06: Some helpful preload libraries for pwning stuff.
+* [preeny](https://github.com/zardus/preeny) ⭐ 1,651 | 🐛 20 | 🌐 C | 📅 2026-03-06: Some helpful preload libraries for pwning stuff.
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges) ⭐ 955 | 🐛 3 | 🌐 C | 📅 2021-11-15
 * [AllPocsFromHackerOne](https://github.com/bminossi/AllVideoPocsFromHackerOne) ⭐ 924 | 🐛 0 | 🌐 Shell | 📅 2025-10-10: This script grabs public report from hacker one and download all JSON files to be grepable.
 * [A collection of PHP exploit scripts](https://github.com/mattiasgeniar/php-exploit-scripts) ⭐ 861 | 🐛 1 | 🌐 PHP | 📅 2024-02-26
-* [Sticky notes for pentesting.](https://exploit-notes.hdks.org/) [repo](https://github.com/hideckies/exploit-notes) ⭐ 813 | 🐛 0 | 🌐 HTML | 📅 2026-03-12
+* [Sticky notes for pentesting.](https://exploit-notes.hdks.org/) [repo](https://github.com/hideckies/exploit-notes) ⭐ 812 | 🐛 0 | 🌐 HTML | 📅 2026-03-12
 * [mssqlproxy](https://github.com/blackarrowsec/mssqlproxy) ⭐ 774 | 🐛 1 | 🌐 Python | 📅 2021-02-16 is a toolkit aimed to perform lateral movement in restricted environments through a compromised Microsoft SQL Server via socket reuse.
 * [WebKit exploit](https://github.com/Cryptogenic/Exploit-Writeups/blob/master/WebKit/setAttributeNodeNS%20UAF%20Write-up.md) ⭐ 768 | 🐛 3 | 📅 2021-05-09
 * [RedGhost](https://github.com/d4rk007/RedGhost) ⭐ 542 | 🐛 0 | 🌐 Shell | 📅 2021-04-14: Linux post exploitation framework designed to assist red teams in gaining persistence, reconnaissance and leaving no trace.
@@ -1596,7 +1596,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Payloads
 
-* [LaTex Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [LaTex Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
 * [Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion) ⚠️ Archived: Python antivirus evasion tool.
 * [Payload Delivery for DevOps](https://khast3x.club/posts/2020-06-27-Cross-Platform-Dropper/): Building a Cross-Platform Dropper Using the Genesis Framework, Metasploit and Docker. [code](https://github.com/gen0cide/gscript) ⭐ 706 | 🐛 6 | 🌐 Go | 📅 2024-02-24
 * [Steganography](https://github.com/ragibson/Steganography#WavSteg) ⭐ 660 | 🐛 0 | 🌐 Python | 📅 2025-10-10: Least Significant Bit Steganography for bitmap images (.bmp and .png), WAV sound files, and byte sequences. Simple LSB Steganalysis (LSB extraction) for bitmap images.
@@ -1656,22 +1656,22 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 #### Web Exploitation
 
-* [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [Server Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [CRLF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/C%20InjectionRLF) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [CSV Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/Command%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [Directory Traversal](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [SSTI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [LDAP Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [NoSQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [IDOR](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [ISCM](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [OAuth](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [XPATH Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [Bypass Upload Tricky](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
-* [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,236 | 🐛 7 | 📅 2026-08-13:  A list of web application security.
+* [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [Server Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [CRLF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/C%20InjectionRLF) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [CSV Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/Command%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [Directory Traversal](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [SSTI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [LDAP Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [NoSQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [IDOR](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [ISCM](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [OAuth](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [XPATH Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [Bypass Upload Tricky](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,235 | 🐛 7 | 📅 2026-08-13:  A list of web application security.
 * [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) ⭐ 6,535 | 🐛 11 | 📅 2023-09-14: A list of interesting payloads, tips and tricks for bug bounty hunters.
 * [CRLF](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md) ⭐ 6,535 | 🐛 11 | 📅 2023-09-14
 * [CSV-Injection](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md) ⭐ 6,535 | 🐛 11 | 📅 2023-09-14
@@ -1682,9 +1682,9 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [Template Injection](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md) ⭐ 6,535 | 🐛 11 | 📅 2023-09-14
 * [XSLT](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md) ⭐ 6,535 | 🐛 11 | 📅 2023-09-14
 * [Content Injection](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md) ⭐ 6,535 | 🐛 11 | 📅 2023-09-14
-* [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) ⭐ 5,861 | 🐛 30 | 📅 2026-03-07: A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
-* [gau](https://github.com/lc/gau) ⭐ 5,065 | 🐛 35 | 🌐 Go | 📅 2026-03-20: Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
-* [ParamSpider](https://github.com/devanshbatham/ParamSpider) ⭐ 3,154 | 🐛 37 | 🌐 Python | 📅 2026-03-07: Mining parameters from dark corners of Web Archives.
+* [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) ⭐ 5,862 | 🐛 30 | 📅 2026-03-07: A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
+* [gau](https://github.com/lc/gau) ⭐ 5,066 | 🐛 35 | 🌐 Go | 📅 2026-03-20: Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+* [ParamSpider](https://github.com/devanshbatham/ParamSpider) ⭐ 3,155 | 🐛 37 | 🌐 Python | 📅 2026-03-07: Mining parameters from dark corners of Web Archives.
 * [get-title](https://github.com/tomnomnom/hacks/tree/master/get-title) ⭐ 2,512 | 🐛 54 | 🌐 Go | 📅 2025-03-13
 * [Zeus-Scanner](https://github.com/ekultek/zeus-scanner) ⭐ 998 | 🐛 420 | 🌐 Python | 📅 2023-11-20: is an advanced reconnaissance utility designed to make web application reconnaissance simple. Zeus comes complete with a powerful built-in URL parsing engine, multiple search engine compatibility, the ability to extract URLs from both ban and webcache URLs, the ability to run multiple vulnerability assessments on the target, and is able to bypass search engine captchas.
 * [Introducing CookieMonster](https://ian.sh/cookiemonster): a tool for breaking stateless authentication. [cokkiemonster](https://github.com/iangcarroll/cookiemonster/) ⭐ 980 | 🐛 5 | 🌐 Go | 📅 2025-01-10
@@ -1697,7 +1697,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [Web Security CheatSheet](https://blog.p6.is/Web-Security-CheatSheet/)
 * [Presenting The Pwning-Machine, a versatile and easy to setup Bug bounty environment.](https://blog.yeswehack.com/yeswerhackers/the-pwning-machine/)
 * SQL Injection:
-  * [SQLite Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/SQLite%20Injection.md) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+  * [SQLite Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/SQLite%20Injection.md) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
   * [SQLi](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md) ⭐ 6,535 | 🐛 11 | 📅 2023-09-14
   * [SQL injection](https://portswigger.net/web-security/sql-injection)
   * [SQL Injection](https://book.hacktricks.xyz/pentesting-web/sql-injection)
@@ -1720,7 +1720,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
   * [An investigation into SQL Injection tools — The pattern of each attack tool Part II](https://medium.com/@bigrootno1/an-investigation-into-sql-inection-tools-the-pattern-of-each-attack-tool-part-ii-37568afd7590)
   * [Advanced SQL Injection](https://owasp.org/www-chapter-belgium/assets/2010/2010-06-16/Advanced_SQL_InjectionV2.pdf)
 * CSRF:
-  * [CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+  * [CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
   * [DNS Hijacking Attacks on Home Routers in Brazil](https://cujo.com/dns-hijacking-attacks-on-home-routers-in-brazil/)
   * [Bypassing CSRF tokens with Python’s CGIHTTPServer to exploit SQL injections](https://cobalt.io/blog/bypassing-csrf-tokens-with-pythons-cgihttpserver-to-exploit-sql-injections)
 * HTTP Request Smuggling:
@@ -1747,15 +1747,15 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 +𒀟][𒁹](𒀃[𒀀]+𒀃[𒈫]+𒉺[𒀆]+𒀟+𒌐+"(𒀀)")()
 ```
 
-* [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,287 | 🐛 11 | 🌐 Go | 📅 2026-08-15 is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+* [httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,290 | 🐛 11 | 🌐 Go | 📅 2026-08-19 is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
 
 * [GraphQL](https://the-bilal-rizwan.medium.com/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696): Common vulnerabilities & how to exploit them. [apis guru for](https://apis.guru/graphql-voyager/) [graphql](https://github.com/APIs-guru/graphql-voyager) ⭐ 8,159 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12: ￼ Represent any GraphQL API as an interactive graph.
 
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) ⭐ 8,159 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12: 🛰️ Represent any GraphQL API as an interactive graph
 
-* [JWT Vulnerabilities (Json Web Tokens)](https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens). [The JSON Web Token Toolkit v2](https://github.com/ticarpi/jwt_tool) ⭐ 6,739 | 🐛 74 | 🌐 Python | 📅 2025-05-01
+* [JWT Vulnerabilities (Json Web Tokens)](https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens). [The JSON Web Token Toolkit v2](https://github.com/ticarpi/jwt_tool) ⭐ 6,740 | 🐛 74 | 🌐 Python | 📅 2025-05-01
 
-* [DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang](https://github.com/hahwul/dalfox) ⭐ 5,238 | 🐛 0 | 🌐 Rust | 📅 2026-08-17
+* [DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang](https://github.com/hahwul/dalfox) ⭐ 5,239 | 🐛 0 | 🌐 Rust | 📅 2026-08-17
 
 * [waybackurls](https://github.com/tomnomnom/waybackurls) ⭐ 4,538 | 🐛 48 | 🌐 Go | 📅 2024-05-01: Fetch all the URLs that the Wayback Machine knows about for a domain
 
@@ -1850,7 +1850,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [Debugging your GraphQL server was never this easy!](https://altair.sirmuel.design/)
 
 * GraphQL:
-  * [GraphQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection) ⭐ 80,153 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+  * [GraphQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection) ⭐ 80,168 | 🐛 34 | 🌐 Python | 📅 2026-08-09
   * [GraphQL](https://the-bilal-rizwan.medium.com/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696): Common vulnerabilities & how to exploit them. [apis guru for](https://apis.guru/graphql-voyager/) [graphql](https://github.com/APIs-guru/graphql-voyager) ⭐ 8,159 | 🐛 106 | 🌐 TypeScript | 📅 2026-05-12: ￼ Represent any GraphQL API as an interactive graph.
   * [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) ⭐ 1,687 | 🐛 20 | 🌐 Python | 📅 2024-03-11: is a scripting engine to interact with a graphql endpoint for pentesting purposes.
   * [Queries and Mutations](https://graphql.org/learn/queries/)
@@ -1886,7 +1886,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 * [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions) ⭐ 3,436 | 🐛 1 | 📅 2026-08-15: A curated list of amazingly awesome Burp Extensions
 * [BurpBounty](https://github.com/wagiro/BurpBounty) ⭐ 1,809 | 🐛 7 | 🌐 Java | 📅 2024-04-26: Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that improve an active and passiv
-* [InQL](https://github.com/doyensec/inql) ⭐ 1,799 | 🐛 30 | 🌐 Kotlin | 📅 2026-06-17 [Scanner](https://blog.doyensec.com/2020/11/19/inql-scanner-v3.html): A Burp Extension for GraphQL Security Testing.
+* [InQL](https://github.com/doyensec/inql) ⭐ 1,800 | 🐛 30 | 🌐 Kotlin | 📅 2026-06-17 [Scanner](https://blog.doyensec.com/2020/11/19/inql-scanner-v3.html): A Burp Extension for GraphQL Security Testing.
 * [403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) ⭐ 1,703 | 🐛 8 | 🌐 Python | 📅 2023-06-29: Burpsuite Extension to bypass 403 restricted directory
 * [403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser) ⭐ 1,703 | 🐛 8 | 🌐 Python | 📅 2023-06-29
 * [param-miner](https://github.com/PortSwigger/param-miner) ⭐ 1,456 | 🐛 26 | 🌐 Java | 📅 2026-08-13
@@ -1918,13 +1918,13 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Red Team
 
-* [Sn1per](https://github.com/1N3/Sn1per) ⭐ 10,782 | 🐛 7 | 🌐 Shell | 📅 2026-07-04: Automated pentest framework for offensive security experts
+* [Sn1per](https://github.com/1N3/Sn1per) ⭐ 10,783 | 🐛 7 | 🌐 Shell | 📅 2026-07-04: Automated pentest framework for offensive security experts
 * [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) ⭐ 10,636 | 🐛 10 | 📅 2026-05-07: A collection of open source and commercial tools that aid in red team operations.
-* [RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) ⭐ 9,634 | 🐛 4 | 📅 2026-04-18: Tools and Techniques for Red Team / Penetration Testing.
+* [RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) ⭐ 9,635 | 🐛 4 | 📅 2026-04-18: Tools and Techniques for Red Team / Penetration Testing.
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) ⭐ 8,061 | 🐛 19 | 📅 2023-12-28
-* [caldera](https://github.com/mitre/caldera) ⭐ 7,199 | 🐛 75 | 🌐 Python | 📅 2026-08-12: Automated Adversary Emulation.
-* [Mythic](https://github.com/its-a-feature/Mythic) ⭐ 4,708 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-05: A collaborative, multi-platform, red teaming framework.
-* [Wiki to collect Red Team infrastructure hardening resources](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,515 | 🐛 0 | 📅 2025-10-01.
+* [caldera](https://github.com/mitre/caldera) ⭐ 7,202 | 🐛 75 | 🌐 Python | 📅 2026-08-12: Automated Adversary Emulation.
+* [Mythic](https://github.com/its-a-feature/Mythic) ⭐ 4,709 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-05: A collaborative, multi-platform, red teaming framework.
+* [Wiki to collect Red Team infrastructure hardening resources](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki) ⭐ 4,516 | 🐛 0 | 📅 2025-10-01.
 * [FireEye Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) ⚠️ Archived and [Mandiant SunBurst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) ⚠️ Archived.
 * [Red Team's SIEM](https://github.com/outflanknl/RedELK) ⭐ 2,665 | 🐛 13 | 🌐 Python | 📅 2026-04-28: easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 * [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) ⭐ 2,496 | 🐛 2 | 🌐 Python | 📅 2024-01-09: Powerful framework for rogue access point attack.
@@ -1967,7 +1967,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 #### Command & Control (C2)
 
-* [Silver](https://github.com/BishopFox/sliver) ⭐ 11,698 | 🐛 218 | 🌐 Go | 📅 2026-08-18: Implant framework
+* [Silver](https://github.com/BishopFox/sliver) ⭐ 11,699 | 🐛 219 | 🌐 Go | 📅 2026-08-18: Implant framework
 * [Covenant](https://github.com/cobbr/Covenant) ⭐ 4,726 | 🐛 89 | 🌐 C# | 📅 2024-07-18: Covenant is a collaborative .NET C2 framework for red teamers.
 * [PoshC2](https://github.com/nettitude/PoshC2) ⭐ 2,129 | 🐛 25 | 🌐 PowerShell | 📅 2025-11-20: is a proxy aware C2 framework used to aid penetration testers with red teaming, post-exploitation and lateral movement. [Native macOS Implants](https://labs.nettitude.com/blog/poshc2-introducing-native-macos-implants/)
 * [ToRat](https://github.com/lu4p/ToRat) ⚠️ Archived: is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication.
@@ -1996,8 +1996,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## DNS
 
-* [DNSCrypt](https://dnscrypt.info/) is a protocol that authenticates communications between a DNS client and a DNS resolver. It prevents DNS spoofing. It uses cryptographic signatures to verify that responses originate from the chosen DNS resolver and haven’t been tampered with. [dnscrypt-proxy 2](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,579 | 🐛 12 | 🌐 Go | 📅 2026-08-17, [resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) ⭐ 1,550 | 🐛 0 | 🌐 Go | 📅 2026-08-14 and [docker image](https://github.com/DNSCrypt/dnscrypt-server-docker) ⭐ 816 | 🐛 1 | 🌐 Shell | 📅 2026-07-22.
-* [dog](https://github.com/ogham/dog) ⭐ 6,687 | 🐛 79 | 🌐 Rust | 📅 2024-05-29: Command-line DNS client
+* [DNSCrypt](https://dnscrypt.info/) is a protocol that authenticates communications between a DNS client and a DNS resolver. It prevents DNS spoofing. It uses cryptographic signatures to verify that responses originate from the chosen DNS resolver and haven’t been tampered with. [dnscrypt-proxy 2](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,582 | 🐛 12 | 🌐 Go | 📅 2026-08-17, [resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers) ⭐ 1,551 | 🐛 0 | 🌐 Go | 📅 2026-08-14 and [docker image](https://github.com/DNSCrypt/dnscrypt-server-docker) ⭐ 816 | 🐛 1 | 🌐 Shell | 📅 2026-07-22.
+* [dog](https://github.com/ogham/dog) ⭐ 6,688 | 🐛 79 | 🌐 Rust | 📅 2024-05-29: Command-line DNS client
 * [Can I take over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz) ⭐ 5,786 | 🐛 213 | 🌐 Python | 📅 2025-02-08: a list of services and how to claim (sub)domains with dangling DNS records.
 * [dnstwist](https://github.com/elceef/dnstwist) ⭐ 5,728 | 🐛 18 | 🌐 Python | 📅 2025-04-15
 * [dnstwist](https://github.com/elceef/dnstwist) ⭐ 5,728 | 🐛 18 | 🌐 Python | 📅 2025-04-15: Domain name permutation engine for detecting typo squatting, phishing and corporate espionage
@@ -2029,14 +2029,14 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## Exfiltration
 
-* [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,811 | 🐛 460 | 🌐 Go | 📅 2026-08-19: Searches full repo history for secrets and keys
+* [gitleaks](https://github.com/zricethezav/gitleaks) ⭐ 28,822 | 🐛 460 | 🌐 Go | 📅 2026-08-19: Searches full repo history for secrets and keys
 * [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) ⭐ 16,217 | 🐛 78 | 🌐 Python | 📅 2022-07-26: login access for webscrapping.
-* [whois | GTFOBins](https://gtfobins.github.io/gtfobins/whois/): hangs waiting for the remote peer to close the socket. [github](https://github.com/GTFOBins/GTFOBins.github.io) ⭐ 13,550 | 🐛 27 | 🌐 YAML | 📅 2026-05-27, GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
+* [whois | GTFOBins](https://gtfobins.github.io/gtfobins/whois/): hangs waiting for the remote peer to close the socket. [github](https://github.com/GTFOBins/GTFOBins.github.io) ⭐ 13,553 | 🐛 27 | 🌐 YAML | 📅 2026-05-27, GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
 * [Photon](https://github.com/s0md3v/Photon) ⭐ 13,121 | 🐛 59 | 🌐 Python | 📅 2026-08-07: Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
-* [Living Off The Land Binaries and Scripts (and also Libraries)](https://lolbas-project.github.io/#) - [github](https://github.com/LOLBAS-Project/LOLBAS) ⭐ 8,756 | 🐛 27 | 🌐 XSLT | 📅 2026-07-31
+* [Living Off The Land Binaries and Scripts (and also Libraries)](https://lolbas-project.github.io/#) - [github](https://github.com/LOLBAS-Project/LOLBAS) ⭐ 8,757 | 🐛 27 | 🌐 XSLT | 📅 2026-07-31
 * [hakrawler](https://github.com/hakluke/hakrawler) ⭐ 5,111 | 🐛 9 | 🌐 Go | 📅 2026-08-05: Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application. [A Fast Web Crawler for Hackers](https://medium.com/@hakluke/introducing-hakrawler-a-fast-web-crawler-for-hackers-ff799955f134)
 * [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper) ⚠️ Archived
-* [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) ⭐ 2,818 | 🐛 20 | 📅 2025-01-22: List of Awesome Asset Discovery Resources
+* [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) ⭐ 2,819 | 🐛 20 | 📅 2025-01-22: List of Awesome Asset Discovery Resources
 * [tinfoleak](https://www.vicenteaguileradiaz.com/tools/) ([github](https://github.com/vaguileradiaz/tinfoleak) ⭐ 1,983 | 🐛 28 | 🌐 Python | 📅 2019-02-06):The most complete open-source tool for Twitter intelligence analysis
 * [Cloakify-Factory:](https://www.hackingarticles.in/cloakify-factory-a-data-exfiltration-tool-uses-text-based-steganography/): A Data Exfiltration Tool Uses Text-Based Steganography. [Cloakify](https://github.com/TryCatchHCF/Cloakify) ⭐ 1,680 | 🐛 8 | 🌐 Python | 📅 2020-11-24: Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting Controls, Social Engineering of Analysts, Evade AV Detection.
 * [DKMC - Dont kill my cat](https://github.com/Mr-Un1k0d3r/DKMC) ⚠️ Archived: Malicious payload evasion tool
@@ -2087,7 +2087,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 * [Stegseek](https://github.com/RickdeJager/stegseek) ⭐ 1,287 | 🐛 9 | 🌐 C++ | 📅 2023-10-10: Worlds fastest steghide cracker, chewing through millions of passwords per second
 * [steghide](https://github.com/StefanoDeVuono/steghide) ⭐ 770 | 🐛 4 | 🌐 C++ | 📅 2024-02-20: is a steganography program that is able to hide data in various kinds of image- and audio-files.
-* [stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve) ⭐ 685 | 🐛 8 | 🌐 HTML | 📅 2021-03-08.
+* [stegsolve](https://github.com/eugenekolo/sec-tools/tree/master/stego/stegsolve/stegsolve) ⭐ 686 | 🐛 8 | 🌐 HTML | 📅 2021-03-08.
 * [StegCracker](https://github.com/Paradoxis/StegCracker) ⚠️ Archived: Steganography brute-force utility to uncover hidden data inside files.
 * [A list of useful tools and resources](https://0xrick.github.io/lists/stego/).
 * [Unicode Text Steganography Encoders/Decoders](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder)
@@ -2097,9 +2097,9 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## Phishing
 
-* [evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,501 | 🐛 271 | 🌐 Go | 📅 2026-06-10: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
-* [gophish](https://github.com/gophish/gophish) ⭐ 14,131 | 🐛 752 | 🌐 Go | 📅 2024-09-23: [Open-Source Phishing Toolkit](https://getgophish.com/)
-* [..Modlishka..](https://github.com/drk1wi/Modlishka) ⭐ 5,394 | 🐛 1 | 🌐 Go | 📅 2026-08-14: Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level (with minimal effort required from your side).
+* [evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,502 | 🐛 271 | 🌐 Go | 📅 2026-06-10: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
+* [gophish](https://github.com/gophish/gophish) ⭐ 14,133 | 🐛 752 | 🌐 Go | 📅 2024-09-23: [Open-Source Phishing Toolkit](https://getgophish.com/)
+* [..Modlishka..](https://github.com/drk1wi/Modlishka) ⭐ 5,395 | 🐛 1 | 🌐 Go | 📅 2026-08-14: Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level (with minimal effort required from your side).
 * [King Phisher](https://github.com/rsmusllp/king-phisher) ⭐ 2,576 | 🐛 2 | 🌐 Python | 📅 2026-08-04: Phishing Campaign Toolkit
 * [ThePhish](https://github.com/emalderson/ThePhish) ⭐ 1,360 | 🐛 13 | 🌐 Python | 📅 2024-08-01: an automated phishing email analysis tool
 * [Compromising operating systems through fake software updates](https://medium.com/purple-team/compromising-operating-systems-through-fake-software-updates-3cc4b40a0936). Using: [evilgrade](https://github.com/infobyte/evilgrade) ⭐ 1,327 | 🐛 11 | 🌐 Perl | 📅 2021-09-01 is a modular framework that allows the user to take advantage of poor upgrade implementations by injecting fake updates.
@@ -2118,7 +2118,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## Forensics
 
-* [MVT](https://github.com/mvt-project/mvt) ⭐ 12,908 | 🐛 43 | 🌐 Python | 📅 2026-08-18 (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
+* [MVT](https://github.com/mvt-project/mvt) ⭐ 12,911 | 🐛 41 | 🌐 Python | 📅 2026-08-19 (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.
 * [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,890 | 🐛 9 | 🌐 C | 📅 2026-07-25: Direct Memory Access (DMA) Attack Software.
 * [Dshell](https://github.com/USArmyResearchLab/Dshell) ⭐ 5,491 | 🐛 4 | 🌐 Python | 📅 2024-05-07 is a network forensic analysis framework.
 * [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,289 | 🐛 9 | 🌐 C | 📅 2026-08-17: is an easy and convenient way of viewing physical memory as files in a virtual file system.
@@ -2128,7 +2128,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) ⭐ 1,442 | 🐛 64 | 🌐 C# | 📅 2023-11-16: PowerForensics provides an all in one platform for live disk forensic analysis. [Powershell](https://www.powershellgallery.com/packages/PowerForensics/1.1.1)
 * [usbrip](https://github.com/snovvcrash/usbrip) ⚠️ Archived (derived from "USB Ripper", not "USB R.I.P." 😲) is an open source forensics tool with CLI interface that lets you keep track of USB device artifacts (aka USB event history, "Connected" and "Disconnected" events) on Linux machines.
 * [AVML](https://github.com/microsoft/avml) ⭐ 1,118 | 🐛 6 | 🌐 Rust | 📅 2026-08-17(Acquire Volatile Memory for Linux).
-* [mac\_apt](https://github.com/ydkhatri/mac_apt/) ⭐ 1,075 | 🐛 8 | 🌐 Python | 📅 2026-07-23: macOS Artifact Parsing Tool
+* [mac\_apt](https://github.com/ydkhatri/mac_apt/) ⭐ 1,077 | 🐛 8 | 🌐 Python | 📅 2026-07-23: macOS Artifact Parsing Tool
 * [CHIRP](https://github.com/cisagov/CHIRP) ⚠️ Archived: A forensic collection tool written in Python.
 * [LeechCore](https://github.com/ufrisk/LeechCore) ⭐ 941 | 🐛 8 | 🌐 C | 📅 2026-08-16: Physical Memory Acquisition Library & The LeechAgent Remote Memory Acquisition Agent.
 * [Kuiper](https://github.com/DFIRKuiper/Kuiper) ⭐ 901 | 🐛 12 | 🌐 JavaScript | 📅 2024-10-12: Digital Forensics Investigation Platform
@@ -2138,7 +2138,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [swap\_digger](https://github.com/sevagas/swap_digger) ⭐ 536 | 🐛 1 | 🌐 Shell | 📅 2021-06-26 is a tool used to automate Linux swap analysis during post-exploitation or forensics
 * [libelfmaster](https://github.com/elfmaster/libelfmaster) ⭐ 455 | 🐛 18 | 🌐 C | 📅 2026-01-26: Secure ELF parsing/loading library for forensics reconstruction of malware, and robust reverse engineering tools
 * [O-Saft](https://github.com/OWASP/O-Saft) ⭐ 385 | 🐛 12 | 🌐 Perl | 📅 2026-07-27:  OWASP SSL advanced forensic tool
-* [Foremost](https://github.com/korczis/foremost) ⭐ 373 | 🐛 6 | 🌐 C | 📅 2023-05-26: is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you
+* [Foremost](https://github.com/korczis/foremost) ⭐ 374 | 🐛 6 | 🌐 C | 📅 2023-05-26: is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you
 * [CDQR](https://github.com/orlikoski/CDQR) ⭐ 345 | 🐛 5 | 🌐 Python | 📅 2022-06-25: The Cold Disk Quick Response (CDQR) tool is a fast and easy to use forensic artifact parsing tool that works on disk images, mounted drives and extracted artifacts from Windows, Linux and MacOS devices
 * [imago-forensics](https://github.com/redaelli/imago-forensics) ⭐ 268 | 🐛 4 | 🌐 Python | 📅 2021-12-23: Imago is a python tool that extract digital evidences from images.
 * [dfir\_ntfs](https://github.com/msuhanov/dfir_ntfs) ⭐ 238 | 🐛 1 | 🌐 Python | 📅 2025-10-31: An NTFS/FAT parser for digital forensics & incident response.
@@ -2210,7 +2210,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,522 | 🐛 21 | 🌐 Python | 📅 2026-06-01: A curated list of awesome honeypots, plus related components and much more, divided into categories such as Web, services, and others, with a focus on free and open source projects.
 * [T-Pot](https://github.com/telekom-security/tpotce) ⭐ 9,420 | 🐛 3 | 🌐 Shell | 📅 2026-08-04: The All In One Honeypot Platform ￼
 * [elastalert](https://github.com/Yelp/elastalert) ⭐ 7,987 | 🐛 1,401 | 🌐 Python | 📅 2024-08-07: Easy & Flexible Alerting With ElasticSearch
-* [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,608 | 🐛 5 | 🌐 HTML | 📅 2023-01-24: Windows Events Attack Samples [slides](https://github.com/sbousseaden/Slides) ⭐ 376 | 🐛 1 | 📅 2023-01-26
+* [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,609 | 🐛 5 | 🌐 HTML | 📅 2023-01-24: Windows Events Attack Samples [slides](https://github.com/sbousseaden/Slides) ⭐ 376 | 🐛 1 | 📅 2023-01-26
 * [DeTTECT](https://github.com/rabobank-cdc/DeTTECT) ⭐ 2,333 | 🐛 16 | 🌐 SCSS | 📅 2026-08-06: Detect Tactics, Techniques & Combat Threats
 * [Sooty](https://github.com/TheresAFewConors/Sooty) ⭐ 1,487 | 🐛 19 | 🌐 Python | 📅 2024-09-25: The SOC Analysts all-in-one CLI tool to automate and speed up workflow.
 * [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) ⭐ 919 | 🐛 3 | 🌐 C# | 📅 2021-08-19: Scan files or process memory for CobaltStrike beacons and parse their configuration.
@@ -2218,8 +2218,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [BaselineTraining](https://github.com/rj-chap/BaselineTraining) ⭐ 15 | 🐛 0 | 📅 2019-03-04: Notes from my "Implementing a Kick-Butt Training Program: Blue Team GO!" talk.
 * [tinypw](https://github.com/marconae/tinypw) ⭐ 14 | 🐛 1 | 🌐 Rust | 📅 2026-04-14: Yet another tiny CLI tool to generate passwords
 * MITRE ATT\&CK:
-  * [atomic-red-team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,422 | 🐛 28 | 🌐 C | 📅 2026-08-17: Small and highly portable detection tests based on MITRE's ATT\&CK.
-  * [Splunk Attack Range](https://github.com/splunk/attack_range) ⭐ 2,540 | 🐛 22 | 🌐 Python | 📅 2026-08-11: A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk.
+  * [atomic-red-team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,424 | 🐛 28 | 🌐 C | 📅 2026-08-17: Small and highly portable detection tests based on MITRE's ATT\&CK.
+  * [Splunk Attack Range](https://github.com/splunk/attack_range) ⭐ 2,541 | 🐛 22 | 🌐 Python | 📅 2026-08-11: A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk.
   * [ATTACK-Tools](https://github.com/nshalabi/ATTACK-Tools) ⭐ 1,053 | 🐛 3 | 🌐 HTML | 📅 2026-01-03: Utilities for MITRE™ ATT\&CK
   * [Atomic Threat Coverage](https://github.com/atc-project/atomic-threat-coverage) ⭐ 1,010 | 🐛 17 | 🌐 Python | 📅 2022-05-25: Actionable analytics designed to combat threats based on MITRE's ATT\&CK.
   * [attack-scripts](https://github.com/mitre-attack/attack-scripts/) ⚠️ Archived: Scripts and a (future) library to improve users' interactions with the ATT\&CK content.
@@ -2259,22 +2259,22 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Threat Hunting
 
-* [Wazuh](https://wazuh.com/): is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [repo](https://github.com/wazuh/wazuh) ⭐ 16,594 | 🐛 2,989 | 🌐 C++ | 📅 2026-08-19 and [ansible](https://github.com/wazuh/wazuh-ansible) ⭐ 415 | 🐛 71 | 🌐 Shell | 📅 2026-08-17
-* [opencti](https://www.opencti.io): [Open Cyber Threat Intelligence Platform](https://github.com/OpenCTI-Platform/opencti) ⭐ 9,827 | 🐛 2,094 | 🌐 TypeScript | 📅 2026-08-19
+* [Wazuh](https://wazuh.com/): is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [repo](https://github.com/wazuh/wazuh) ⭐ 16,596 | 🐛 2,987 | 🌐 C++ | 📅 2026-08-19 and [ansible](https://github.com/wazuh/wazuh-ansible) ⭐ 415 | 🐛 71 | 🌐 Shell | 📅 2026-08-17
+* [opencti](https://www.opencti.io): [Open Cyber Threat Intelligence Platform](https://github.com/OpenCTI-Platform/opencti) ⭐ 9,828 | 🐛 2,097 | 🌐 TypeScript | 📅 2026-08-19
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,312 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01: Identify vulnerabilities in running containers, images, hosts and repositories.
-* [securityonion](https://github.com/Security-Onion-Solutions/securityonion) ⭐ 4,833 | 🐛 81 | 🌐 Shell | 📅 2026-08-18: Security Onion 2.0 (Pre-release) - Linux distro for threat hunting, enterprise security monitoring, and log management
+* [securityonion](https://github.com/Security-Onion-Solutions/securityonion) ⭐ 4,834 | 🐛 81 | 🌐 Shell | 📅 2026-08-18: Security Onion 2.0 (Pre-release) - Linux distro for threat hunting, enterprise security monitoring, and log management
 * [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) ⭐ 4,635 | 🐛 6 | 🌐 Python | 📅 2026-01-12: A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 * [TheHive](https://github.com/TheHive-Project/TheHive) ⚠️ Archived: a Scalable, Open Source and Free Security Incident Response Platform
 * [HELK](https://www.kitploit.com/2019/08/helk-hunting-elk.html) - [The Hunting ELK](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,930 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01: The Hunting ELK or simply the HELK is one of the first open source hunt platforms with advanced analytics capabilities such as SQL declarative language, graphing, structured streaming, and even machine learning via Jupyter notebooks and Apache Spark over an ELK stack.
 * [ja3](https://github.com/salesforce/ja3) ⚠️ Archived is a standard for creating SSL client fingerprints in an easy to produce and shareable way.
-* [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,608 | 🐛 5 | 🌐 HTML | 📅 2023-01-24: Windows Events Attack Samples.
+* [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,609 | 🐛 5 | 🌐 HTML | 📅 2023-01-24: Windows Events Attack Samples.
 * [Interesting large and small malspam attachments from 2023](https://isc.sans.edu/diary/Interesting%20large%20and%20small%20malspam%20attachments%20from%202023/30524) [helpful](https://github.com/DidierStevens/DidierStevensSuite/blob/master/decode-vbe.py) ⭐ 2,520 | 🐛 13 | 🌐 Python | 📅 2026-07-30 [scripts](https://github.com/JohnHammond/vbe-decoder/blob/master/vbe-decoder.py) ⭐ 198 | 🐛 5 | 🌐 Python | 📅 2022-08-09
 * [Yeti](https://github.com/yeti-platform/yeti) ⭐ 2,016 | 🐛 47 | 🌐 Python | 📅 2026-08-17: [Your Everyday](https://yeti-platform.github.io/) [Threat Intelligence](https://github.com/fr0gger/yeti) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2021-02-17
-* [mordor](https://github.com/Cyb3rWard0g/mordor) ⭐ 1,799 | 🐛 12 | 🌐 PowerShell | 📅 2024-03-20: Re-play Adversarial Techniques.
+* [mordor](https://github.com/Cyb3rWard0g/mordor) ⭐ 1,800 | 🐛 12 | 🌐 PowerShell | 📅 2024-03-20: Re-play Adversarial Techniques.
 * [Watcher](https://github.com/Felix83000/Watcher) ⭐ 1,367 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-12: Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.
-* [strelka](https://github.com/target/strelka) ⭐ 997 | 🐛 8 | 🌐 Python | 📅 2026-08-18: Scanning files at scale with Python and ZeroMQ
+* [strelka](https://github.com/target/strelka) ⭐ 999 | 🐛 8 | 🌐 Python | 📅 2026-08-18: Scanning files at scale with Python and ZeroMQ
 * [BeaconEye](https://github.com/CCob/BeaconEye) ⭐ 964 | 🐛 4 | 🌐 C# | 📅 2024-09-04:  Hunts out CobaltStrike beacons and logs operator command output.
-* [Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/thehive-templates) ⭐ 489 | 🐛 144 | 🌐 Python | 📅 2026-08-17: Cortex Analyzers Repository
+* [Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers/tree/master/thehive-templates) ⭐ 489 | 🐛 144 | 🌐 Python | 📅 2026-08-19: Cortex Analyzers Repository
 * [Threat Hunting Princiĺes](https://github.com/sbousseaden/Slides) ⭐ 376 | 🐛 1 | 📅 2023-01-26
 * [Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting) ⭐ 261 | 🐛 0 | 📅 2019-02-07: Personal compilation of APT malware from whitepaper releases, documents and own research
 * [TheHive4py](https://github.com/TheHive-Project/TheHive4py) ⭐ 241 | 🐛 7 | 🌐 Python | 📅 2026-06-12: Python API Client for TheHive
@@ -2317,8 +2317,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 #### MISP
 
-* [MISP (core software)](https://github.com/MISP/MISP) ⭐ 6,479 | 🐛 2,853 | 🌐 PHP | 📅 2026-08-18 - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)
-* [misp-warninglist](https://github.com/MISP/misp-warninglists) ⭐ 643 | 🐛 46 | 🌐 Python | 📅 2026-08-14: Warning lists to inform users of MISP about potential false-positives or other information in indicators
+* [MISP (core software)](https://github.com/MISP/MISP) ⭐ 6,479 | 🐛 2,853 | 🌐 PHP | 📅 2026-08-19 - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)
+* [misp-warninglist](https://github.com/MISP/misp-warninglists) ⭐ 643 | 🐛 50 | 🌐 Python | 📅 2026-08-19: Warning lists to inform users of MISP about potential false-positives or other information in indicators
 * [MISP galaxy](https://github.com/MISP/misp-galaxy) ⭐ 636 | 🐛 17 | 🌐 Python | 📅 2026-08-18: Clusters and elements to attach to MISP events or attributes (like threat actors)
 * [PyMISP](https://github.com/MISP/PyMISP) ⭐ 485 | 🐛 102 | 🌐 Python | 📅 2026-08-17: Python library using the MISP Rest API
 * [misp-modules](https://github.com/MISP/misp-modules) ⭐ 376 | 🐛 142 | 🌐 Python | 📅 2026-08-18: Modules for expansion services, import and export in MISP
@@ -2379,9 +2379,9 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### IoCs
 
-* [APT\_Digital\_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) ⭐ 962 | 🐛 7 | 📅 2026-02-28: Indicators of compromise (IOCs) collected from public resources and categorized by Qi-AnXin.
+* [APT\_Digital\_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) ⭐ 963 | 🐛 7 | 📅 2026-02-28: Indicators of compromise (IOCs) collected from public resources and categorized by Qi-AnXin.
 * [iocs](https://github.com/pan-unit42/iocs) ⚠️ Archived: Indicators from Unit 42 Public Reports
-* [sophos labs IoCs](https://github.com/sophoslabs/IoCs) ⭐ 668 | 🐛 5 | 🌐 YARA | 📅 2026-08-11: Sophos-originated indicators-of-compromise from published
+* [sophos labs IoCs](https://github.com/sophoslabs/IoCs) ⭐ 668 | 🐛 5 | 🌐 YARA | 📅 2026-08-19: Sophos-originated indicators-of-compromise from published
 * [DailyIOC](https://github.com/StrangerealIntel/DailyIOC) ⭐ 318 | 🐛 6 | 🌐 YARA | 📅 2023-12-12: IOC from articles, tweets for archives
 * [Emotet 2022 | epoch4 | 22.04.2022 |](https://github.com/pr0xylife/Emotet/blob/main/e4_emotet_22.04.2022.txt) ⭐ 57 | 🐛 0 | 📅 2023-03-07
 * [Threat intelligence and threat detections](https://github.com/swisscom/detections) ⚠️ Archived: Threat intelligence and threat detection indicators (IOC, IOA).
@@ -2398,9 +2398,9 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### SIEM
 
-* [Fluentd](https://github.com/fluent/fluentd) ⭐ 13,578 | 🐛 139 | 🌐 Ruby | 📅 2026-08-17: Unified Logging Layer (project under CNCF)
-* [Sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,903 | 🐛 191 | 🌐 Python | 📅 2026-08-18: Generic Signature Format for SIEM Systems
-  * [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml) ⭐ 10,903 | 🐛 191 | 🌐 Python | 📅 2026-08-18: Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable.
+* [Fluentd](https://github.com/fluent/fluentd) ⭐ 13,579 | 🐛 139 | 🌐 Ruby | 📅 2026-08-17: Unified Logging Layer (project under CNCF)
+* [Sigma](https://github.com/SigmaHQ/sigma) ⭐ 10,906 | 🐛 192 | 🌐 Python | 📅 2026-08-18: Generic Signature Format for SIEM Systems
+  * [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml) ⭐ 10,906 | 🐛 192 | 🌐 Python | 📅 2026-08-18: Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable.
   * [KrbRelayUp local privilege escalation.](https://github.com/tsale/Sigma_rules/blob/main/windows_exploitation/KrbRelayUp.yml) ⭐ 126 | 🐛 0 | 🌐 Python | 📅 2025-01-29
 * [RedELK](https://github.com/outflanknl/RedELK) ⭐ 2,665 | 🐛 13 | 🌐 Python | 📅 2026-04-28: Red Team's SIEM - easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 * [plaso](https://github.com/log2timeline/plaso/) ⭐ 2,137 | 🐛 281 | 🌐 Python | 📅 2026-08-03: Super timeline all the things.
@@ -2430,8 +2430,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## Browsers
 
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,462 | 🐛 265 | 🌐 TypeScript | 📅 2026-08-18: Headless Chrome Node API. [site](https://pptr.dev/)
-* [uBlock Origin](https://github.com/gorhill/uBlock) ⭐ 67,070 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-18: An efficient blocker for Chromium and Firefox. Fast and lean.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,465 | 🐛 265 | 🌐 TypeScript | 📅 2026-08-19: Headless Chrome Node API. [site](https://pptr.dev/)
+* [uBlock Origin](https://github.com/gorhill/uBlock) ⭐ 67,076 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-19: An efficient blocker for Chromium and Firefox. Fast and lean.
 * [browsergap.ce](https://github.com/dosycorp/browsergap.ce) ⭐ 3,898 | 🐛 0 | 🌐 Shell | 📅 2026-08-13: Simple Isolated Remote Browsers, Open Source
 * [autochrome](https://github.com/nccgroup/autochrome) ⭐ 480 | 🐛 14 | 🌐 HTML | 📅 2024-04-03: This tool downloads, installs, and configures a shiny new copy of Chromium.
 * [Lightnion](https://github.com/spring-epfl/lightnion) ⭐ 119 | 🐛 12 | 🌐 Python | 📅 2020-10-09: A light version of Tor portable to the browser.
@@ -2481,7 +2481,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### UEFI
 
-* [PSPTool](https://github.com/cwerling/psptool) ⭐ 709 | 🐛 21 | 🌐 Python | 📅 2026-04-20: Display, extract, and manipulate PSP firmware inside UEFI images
+* [PSPTool](https://github.com/cwerling/psptool) ⭐ 709 | 🐛 20 | 🌐 Python | 📅 2026-08-19: Display, extract, and manipulate PSP firmware inside UEFI images
 * [Project Mu](https://microsoft.github.io/mu/): is a modular adaptation of TianoCore's edk2 tuned for building modern devices using a scalable, maintainable, and reusable pattern. [github repo](https://github.com/microsoft/mu/) ⭐ 656 | 🐛 4 | 🌐 Python | 📅 2026-08-05
 * [uefi-jitfuck](https://github.com/m4tx/uefi-jitfuck) ⭐ 91 | 🐛 0 | 🌐 C | 📅 2018-07-23: A JIT compiler for Brainfuck running on x86\_64 UEFI
 * [Secure Boot in the Era of the T2](https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2): Continuing our series on Apple’s new T2 platform and examining the role it plays in Apple’s vision of Secure Boot.
@@ -2489,21 +2489,21 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Windows
 
-* [MSconsole](https://github.com/microsoft/console) ⭐ 104,627 | 🐛 1,734 | 🌐 C++ | 📅 2026-08-18: Windows Console Tools
-* [ProcessHacker](https://github.com/processhacker/processhacker) ⭐ 15,659 | 🐛 285 | 🌐 C | 📅 2026-08-19: The Minimalistic x86/x64 API Hooking Library for Windows
+* [MSconsole](https://github.com/microsoft/console) ⭐ 104,629 | 🐛 1,734 | 🌐 C++ | 📅 2026-08-18: Windows Console Tools
+* [ProcessHacker](https://github.com/processhacker/processhacker) ⭐ 15,661 | 🐛 285 | 🌐 C | 📅 2026-08-19: The Minimalistic x86/x64 API Hooking Library for Windows
 * [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire) ⚠️ Archived. [OVERVIEW OF EMPIRE 3.4 FEATURES](https://www.bc-security.org/post/overview-of-empire-3-4-features/)
-* [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) ⭐ 7,821 | 🐛 126 | 🌐 C | 📅 2026-08-12: This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
-* [hUACME](https://github.com/hfiref0x/UACME/) ⭐ 7,753 | 🐛 0 | 🌐 C | 📅 2026-07-24: Defeating Windows User Account Control
-* [Detours](https://github.com/Microsoft/Detours) ⭐ 6,357 | 🐛 92 | 🌐 C++ | 📅 2026-08-05: Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
-* [MinHook](https://github.com/TsudaKageyu/minhook) ⭐ 5,927 | 🐛 57 | 🌐 C | 📅 2026-06-13: The Minimalistic x86/x64 API Hooking Library for Windows.
+* [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) ⭐ 7,822 | 🐛 126 | 🌐 C | 📅 2026-08-12: This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+* [hUACME](https://github.com/hfiref0x/UACME/) ⭐ 7,752 | 🐛 0 | 🌐 C | 📅 2026-07-24: Defeating Windows User Account Control
+* [Detours](https://github.com/Microsoft/Detours) ⭐ 6,358 | 🐛 92 | 🌐 C++ | 📅 2026-08-05: Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
+* [MinHook](https://github.com/TsudaKageyu/minhook) ⭐ 5,930 | 🐛 57 | 🌐 C | 📅 2026-06-13: The Minimalistic x86/x64 API Hooking Library for Windows.
 * [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,624 | 🐛 82 | 📅 2024-07-03: Sysmon configuration file template with default high-quality event tracing.
 * [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) ⭐ 5,624 | 🐛 82 | 📅 2024-07-03: A Sysmon configuration file for everybody to fork
 * [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,441 | 🐛 0 | 🌐 Ruby | 📅 2026-06-02: The ultimate WinRM shell for hacking/pentesting
-* [DetectionLab](https://github.com/clong/DetectionLab) ⭐ 5,011 | 🐛 42 | 🌐 HTML | 📅 2024-07-06: Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices. Post [here](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
+* [DetectionLab](https://github.com/clong/DetectionLab) ⭐ 5,012 | 🐛 42 | 🌐 HTML | 📅 2024-07-06: Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices. Post [here](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
 * [pe-sieve](https://github.com/hasherezade/pe-sieve) ⭐ 3,856 | 🐛 7 | 🌐 C++ | 📅 2026-06-06: Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
 * [Inveigh](https://github.com/Kevin-Robertson/Inveigh) ⭐ 3,007 | 🐛 20 | 🌐 C# | 📅 2025-11-19: Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool. [announcement](https://blog.netspi.com/inveigh-whats-new-in-version-1-4/)
-* [Fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,527 | 🐛 43 | 🌐 Go | 📅 2026-08-12: A modern tool for the Windows kernel exploration and observability.
-* [fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,527 | 🐛 43 | 🌐 Go | 📅 2026-08-12: A modern tool for the Windows kernel exploration and tracing.
+* [Fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,528 | 🐛 43 | 🌐 Go | 📅 2026-08-19: A modern tool for the Windows kernel exploration and observability.
+* [fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,528 | 🐛 43 | 🌐 Go | 📅 2026-08-19: A modern tool for the Windows kernel exploration and tracing.
 * [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter) ⭐ 2,397 | 🐛 2 | 🌐 C | 📅 2026-06-06
 * [windows kernel security development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development) ⭐ 2,074 | 🐛 2 | 📅 2022-09-06
 * [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development) ⭐ 2,074 | 🐛 2 | 📅 2022-09-06: windows kernel security development.
@@ -2544,7 +2544,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [Reinschauer](https://github.com/ps1337/reinschauer) ⚠️ Archived: A PoC to remotely control Windows machines over Websockets.
 * [Secure DevOps Kit for Azure](https://github.com/azsk/DevOpsKit-docs) ⭐ 497 | 🐛 45 | 🌐 PowerShell | 📅 2022-02-14 (AzSK)
 * [SharpHide](https://github.com/outflanknl/SharpHide) ⭐ 489 | 🐛 2 | 🌐 C# | 📅 2019-10-23: Tool to create hidden registry keys.
-* [VDM](https://githacks.org/_xeroxz/vdm):Vulnerable Driver Manipulation.  [physmem\_drivers](https://github.com/namazso/physmem_drivers) ⭐ 476 | 🐛 0 | 🌐 PowerShell | 📅 2022-06-15: A collection of various vulnerable (mostly physical memory exposing) drivers.
+* [VDM](https://githacks.org/_xeroxz/vdm):Vulnerable Driver Manipulation.  [physmem\_drivers](https://github.com/namazso/physmem_drivers) ⭐ 477 | 🐛 0 | 🌐 PowerShell | 📅 2022-06-15: A collection of various vulnerable (mostly physical memory exposing) drivers.
 * [Windows 10 System Programming book samples](https://github.com/zodiacon/Win10SysProgBookSamples) ⭐ 457 | 🐛 21 | 🌐 C++ | 📅 2025-10-19 [Windows Internals Book 7th Edition Tools](https://github.com/zodiacon/WindowsInternals) ⭐ 2,765 | 🐛 6 | 🌐 C | 📅 2024-04-11, [The Windows Kernel Programming book samples](https://github.com/zodiacon/windowskernelprogrammingbook) ⭐ 685 | 🐛 3 | 🌐 C++ | 📅 2023-09-25
 * [DanderSpritz Lab](https://github.com/francisck/DanderSpritz_lab) ⭐ 450 | 🐛 2 | 🌐 HTML | 📅 2019-05-16: A fully functional [DanderSpritz](https://danderspritz.com/) lab in 2 commands.
 * [NTLMRelay2Self](https://github.com/med0x2e/NTLMRelay2Self) ⭐ 420 | 🐛 1 | 🌐 C | 📅 2024-01-27: An other No-Fix LPE, NTLMRelay2Self over HTTP (Webdav).
@@ -2618,7 +2618,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
   * [WinPwnage](https://github.com/rootm0s/WinPwnage) ⭐ 2,750 | 🐛 5 | 🌐 Python | 📅 2023-02-13: Elevate, UAC bypass, privilege escalation, dll hijack techniques
   * [SweetPotato](https://github.com/CCob/SweetPotato) ⭐ 1,837 | 🐛 8 | 🌐 C# | 📅 2024-09-04: Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019.
   * [Control Flow Guard Teleportation](https://86hh.github.io/cfg2.html): The idea that I tried in 2018 was to use Control Flow Guard (CFG) to regenerate my code in a special memory region. CFG is a security feature that aims to mitigate the redirection of the execution flow, for example, by checking if the target address for an indirect call is valid function. \[demo]\(https\:/The purpose of this application is to analyze and create statistics of repetitive lock patterns that everyday users create and use.nprivileged window could just send commands to a highly privileged window, and that’s what UIPI, User Interface Privilege Isolation, prevents. This isn’t a story about UIPI, but it is how it began. [ctftool](https://github.com/taviso/ctftool) ⭐ 1,667 | 🐛 15 | 🌐 C | 📅 2021-09-17 - Interactive CTF Exploration Tool
-  * [Windows Local Privilege Escalation Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook) ⭐ 1,366 | 🐛 3 | 🌐 PowerShell | 📅 2026-02-05
+  * [Windows Local Privilege Escalation Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook) ⭐ 1,367 | 🐛 3 | 🌐 PowerShell | 📅 2026-02-05
   * [Windows Privilege Escalation (Unquoted Path Service)](http://www.hackingarticles.in/windows-privilege-escalation-unquoted-path-service/)
   * [Securing SCOM in a Privilege Tiered Access Model](https://nathangau.wordpress.com/2018/07/17/securing-scom-in-a-privilege-tiered-access-model-part-1/)–Part 1
   * [Windows Privilege Escalation Guide](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/): This guide is influenced by g0tm1lk’s Basic Linux Privilege Escalation, which at some point you should have already seen and used. I wanted to try to mirror his guide, except for Windows. So this guide will mostly focus on the enumeration aspect.
@@ -2730,12 +2730,12 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 #### Active Directory
 
 * [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) ⭐ 6,709 | 🐛 1 | 📅 2026-05-27: A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
-* [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder) ⭐ 6,545 | 🐛 29 | 🌐 Python | 📅 2026-06-10(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
+* [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder) ⭐ 6,547 | 🐛 29 | 🌐 Python | 📅 2026-06-10(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
 * [Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) ⭐ 6,065 | 🐛 119 | 🌐 Python | 📅 2026-08-19: Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 * [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,134 | 🐛 48 | 🌐 C# | 📅 2026-05-21: is a C# toolset for raw Kerberos interaction and abuses.
 * [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense) ⭐ 4,857 | 🐛 3 | 📅 2025-07-29: This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
 * [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) ⭐ 3,691 | 🐛 3 | 🌐 PowerShell | 📅 2025-08-28: Automation for internal Windows Penetrationtest / AD-Security
-* [Certipy](https://github.com/ly4k/Certipy) ⭐ 3,633 | 🐛 23 | 🌐 Python | 📅 2026-07-30 is a Python tool to enumerate and abuse misconfigurations in Active Directory Certificate Services (AD CS).
+* [Certipy](https://github.com/ly4k/Certipy) ⭐ 3,634 | 🐛 23 | 🌐 Python | 📅 2026-07-30 is a Python tool to enumerate and abuse misconfigurations in Active Directory Certificate Services (AD CS).
 * [Vulnerable-AD](https://github.com/WazeHell/vulnerable-AD) ⭐ 2,323 | 🐛 11 | 🌐 PowerShell | 📅 2024-04-12: Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab .
 * [BloodyAD](https://github.com/CravateRouge/bloodyAD) ⭐ 2,267 | 🐛 3 | 🌐 Python | 📅 2026-08-05 is an Active Directory Privilege Escalation Framework.
 * [BadBlood](https://github.com/davidprowe/BadBlood) ⭐ 2,260 | 🐛 8 | 🌐 PowerShell | 📅 2023-06-07 by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active…
@@ -2772,9 +2772,9 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [Wagging the Dog](https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html): Abusing Resource-Based Constrained Delegation to Attack Active Directory.
 * [Exploiting PrivExchange](https://chryzsh.github.io/exploiting-privexchange/): The PrivExchange tool simply logs in on Exchange Web Services to subscribe to push notifications to a specific host.
 * BloodHound:
-  * [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,601 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02: Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) ⭐ 2,431 | 🐛 32 | 🌐 Python | 📅 2025-10-24 based ingestor for BloodHound
-  * [BloodHound.py](https://github.com/fox-it/BloodHound.py) ⭐ 2,431 | 🐛 32 | 🌐 Python | 📅 2025-10-24: A Python based ingestor for BloodHound.
-  * [aclpwn.py](https://github.com/fox-it/aclpwn.py/) ⭐ 765 | 🐛 11 | 🌐 Python | 📅 2021-11-18: Active Directory ACL exploitation with BloodHound. [Exploit ACL Based Privilege Escalation Paths in Active Directory](https://www.darknet.org.uk/2021/07/aclpwn-py-exploit-acl-based-privilege-escalation-paths-in-active-directory/)
+  * [BloodHound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,601 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02: Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) ⭐ 2,431 | 🐛 33 | 🌐 Python | 📅 2025-10-24 based ingestor for BloodHound
+  * [BloodHound.py](https://github.com/fox-it/BloodHound.py) ⭐ 2,431 | 🐛 33 | 🌐 Python | 📅 2025-10-24: A Python based ingestor for BloodHound.
+  * [aclpwn.py](https://github.com/fox-it/aclpwn.py/) ⭐ 766 | 🐛 11 | 🌐 Python | 📅 2021-11-18: Active Directory ACL exploitation with BloodHound. [Exploit ACL Based Privilege Escalation Paths in Active Directory](https://www.darknet.org.uk/2021/07/aclpwn-py-exploit-acl-based-privilege-escalation-paths-in-active-directory/)
   * [SharpHound3](https://github.com/BloodHoundAD/SharpHound3) ⚠️ Archived
   * [BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools) ⭐ 452 | 🐛 0 | 🌐 Python | 📅 2022-10-19: Collection of tools that reflect the network dimension into Bloodhound's data.
   * [BloodHound Database Creator](https://github.com/BloodHoundAD/BloodHound-Tools/tree/master/DBCreator) ⭐ 407 | 🐛 12 | 🌐 Python | 📅 2024-06-28: This python script will generate a randomized data set for testing BloodHound features and analysis.
@@ -2821,7 +2821,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ##### Mimikatz
 
-* [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz) ⭐ 21,783 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz) ⭐ 21,784 | 🐛 196 | 🌐 C | 📅 2026-04-17
 * [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense) ⭐ 4,857 | 🐛 3 | 📅 2025-07-29: This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
 * [pypykatz](https://github.com/skelsec/pypykatz) ⭐ 3,350 | 🐛 50 | 🌐 Python | 📅 2026-04-09: Mimikatz implementation in pure Python
 * [SharpKatz](https://github.com/b4rtik/SharpKatz) ⭐ 1,021 | 🐛 4 | 🌐 C# | 📅 2021-11-07: Porting of mimikatz sekurlsa::logonpasswords, sekurlsa::ekeys and lsadump::dcsync commands
@@ -2877,11 +2877,11 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [Microsoft-365-Defender-Hunting-Queries](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) ⚠️ Archived: Sample queries for Advanced hunting in Microsoft 365 Defender
 * [Advanced hunting queries for Microsoft 365 Defender](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries) ⚠️ Archived: Sample queries for Advanced hunting in Microsoft 365 Defender.
 * [Exploiting MFA Inconsistencies on Microsoft Services](https://www.blackhillsinfosec.com/exploiting-mfa-inconsistencies-on-microsoft-services/). [MFASweep](https://github.com/dafthack/MFASweep) ⭐ 1,693 | 🐛 0 | 🌐 PowerShell | 📅 2026-04-13: A tool for checking if MFA is enabled on multiple Microsoft Services
-* [cli-microsoft365](https://github.com/pnp/cli-microsoft365) ⭐ 1,428 | 🐛 302 | 🌐 TypeScript | 📅 2026-08-18: Manage Microsoft 365 and SharePoint Framework projects on any platform. [site](https://pnp.github.io/cli-microsoft365/) [export teams conversations](https://techgenix.com/export-microsoft-teams-conversations-with-cli-for-microsoft-365/)
-* [Application Guard for Office (public preview) for admins](https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/office-365-security/install-app-guard.md) ⭐ 1,170 | 🐛 13 | 📅 2026-04-30
+* [cli-microsoft365](https://github.com/pnp/cli-microsoft365) ⭐ 1,429 | 🐛 302 | 🌐 TypeScript | 📅 2026-08-18: Manage Microsoft 365 and SharePoint Framework projects on any platform. [site](https://pnp.github.io/cli-microsoft365/) [export teams conversations](https://techgenix.com/export-microsoft-teams-conversations-with-cli-for-microsoft-365/)
+* [Application Guard for Office (public preview) for admins](https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/office-365-security/install-app-guard.md) ⭐ 1,171 | 🐛 13 | 📅 2026-04-30
 * [o365spray](https://github.com/0xZDH/o365spray) ⭐ 1,045 | 🐛 9 | 🌐 Python | 📅 2024-11-06: Username enumeration and password spraying tool aimed at Microsoft O365.
 * [Go365](https://github.com/optiv/Go365) ⭐ 652 | 🐛 11 | 🌐 Go | 📅 2024-03-19: An Office365 User Attack Tool.
-* [msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) ⭐ 621 | 🐛 16 | 🌐 Python | 📅 2026-01-12: Python tool and library for decrypting MS Office files with passwords or other keys
+* [msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) ⭐ 622 | 🐛 16 | 🌐 Python | 📅 2026-01-12: Python tool and library for decrypting MS Office files with passwords or other keys
 * [SnaffPoint](https://github.com/nheiniger/SnaffPoint) ⭐ 289 | 🐛 0 | 🌐 C# | 📅 2022-11-04: A tool for pointesters to find candies in SharePoint.
 * [Comparison of MOTW (Mark of the Web) propagation support of archiver software for Windows](https://github.com/nmantani/archiver-MOTW-support-comparison) ⭐ 281 | 🐛 0 | 📅 2026-08-02
 * [MSSpray](https://github.com/SecurityRiskAdvisors/msspray) ⚠️ Archived is used to conduct password spray attacks against Azure AD as well as validate the implementation of MFA on Azure and Office 365 endpoints
@@ -2907,8 +2907,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### macOS/iOS
 
-* [UTM](https://mac.getutm.app/): Securely run operating systems on your Mac. [repo](https://github.com/utmapp/UTM) ⭐ 35,049 | 🐛 1,100 | 🌐 Swift | 📅 2026-08-05
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,422 | 🐛 146 | 🌐 Swift | 📅 2026-08-17: Build your own 'AirTags' label today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
+* [UTM](https://mac.getutm.app/): Securely run operating systems on your Mac. [repo](https://github.com/utmapp/UTM) ⭐ 35,054 | 🐛 1,100 | 🌐 Swift | 📅 2026-08-05
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,430 | 🐛 146 | 🌐 Swift | 📅 2026-08-17: Build your own 'AirTags' label today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 * [opendrop](https://github.com/seemoo-lab/opendrop) ⭐ 9,710 | 🐛 57 | 🌐 Python | 📅 2026-08-17: An open Apple AirDrop implementation written in Python
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) ⭐ 7,393 | 🐛 168 | 🌐 Python | 📅 2024-02-21: open-source jailbreaking tool for older iOS devices.
 * [macOS Security Compliance Project](https://support.apple.com/guide/sccc/macos-security-compliance-project-sccc22685bb2/web), [nist](https://github.com/usnistgov/macos_security) ⭐ 2,447 | 🐛 20 | 🌐 YAML | 📅 2026-08-18
@@ -2987,10 +2987,10 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Android
 
-* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 62,289 | 🐛 58 | 🌐 Kotlin | 📅 2026-08-18: is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.
-* [mvt](https://github.com/mvt-project/mvt) ⭐ 12,908 | 🐛 43 | 🌐 Python | 📅 2026-08-18: MVT is a forensic tool to look for signs of infection in smartphone devices.
+* [Magisk](https://github.com/topjohnwu/Magisk) ⭐ 62,298 | 🐛 58 | 🌐 Kotlin | 📅 2026-08-18: is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.
+* [mvt](https://github.com/mvt-project/mvt) ⭐ 12,911 | 🐛 41 | 🌐 Python | 📅 2026-08-19: MVT is a forensic tool to look for signs of infection in smartphone devices.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,618 | 🐛 2 | 🌐 Makefile | 📅 2026-08-17: A collection of android security related resources.
-* [Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) ⭐ 4,770 | 🐛 28 | 🌐 Shell | 📅 2023-10-10: Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb).
+* [Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) ⭐ 4,772 | 🐛 28 | 🌐 Shell | 📅 2023-10-10: Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb).
 * [CiLocks](https://github.com/tegal1337/CiLocks) ⭐ 2,987 | 🐛 53 | 🌐 HTML | 📅 2024-03-12: Crack Interface lockscreen, Metasploit and More Android/IOS Hacking.
 * [Magisk Trust User Certs](https://github.com/NVISOsecurity/MagiskTrustUserCerts) ⭐ 2,542 | 🐛 10 | 🌐 Shell | 📅 2025-06-24: A Magisk module that automatically adds user certificates to the system root CA store.
 * [MagiskFrida](https://github.com/ViRb3/magisk-frida) ⭐ 1,445 | 🐛 4 | 🌐 Shell | 📅 2026-08-05: Run frida-server on boot with Magisk, always up-to-date.
@@ -3017,16 +3017,16 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Linux/ \*Nix
 
-* [BCC](https://github.com/iovisor/bcc) ⭐ 22,624 | 🐛 1,067 | 🌐 C | 📅 2026-08-14: Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-* [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch) ⭐ 13,979 | 🐛 183 | 🌐 Python | 📅 2026-07-26
+* [BCC](https://github.com/iovisor/bcc) ⭐ 22,626 | 🐛 1,069 | 🌐 C | 📅 2026-08-14: Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+* [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch) ⭐ 13,979 | 🐛 184 | 🌐 Python | 📅 2026-07-26
 * [tpotce](https://github.com/dtag-dev-sec/tpotce) ⭐ 9,420 | 🐛 3 | 🌐 Shell | 📅 2026-08-04: T-Pot Universal Installer and ISO Creator.
 * [Traitor](https://github.com/liamg/traitor) ⭐ 7,165 | 🐛 22 | 🌐 Go | 📅 2024-03-12: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins ⬆️ ☠️
 * [traitor](https://github.com/liamg/traitor) ⭐ 7,165 | 🐛 22 | 🌐 Go | 📅 2024-03-12
 * [ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux/) ⭐ 4,722 | 🐛 31 | 🌐 C | 📅 2026-05-07: is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
-* [OPNsense GUI, API and systems backend](https://github.com/opnsense/core) ⭐ 4,622 | 🐛 317 | 🌐 PHP | 📅 2026-08-18
+* [OPNsense GUI, API and systems backend](https://github.com/opnsense/core) ⭐ 4,625 | 🐛 318 | 🌐 PHP | 📅 2026-08-19
 * [static-binaries](https://github.com/andrew-d/static-binaries) ⭐ 3,752 | 🐛 38 | 🌐 Shell | 📅 2023-08-21: Various \*nix tools built as statically-linked binaries.
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) ⚠️ Archived:Linux distro for IDS, NSM, and Log Management
-* [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) ⭐ 3,081 | 🐛 21 | 🌐 C | 📅 2026-07-29: A Linux version of the ProcDump Sysinternals tool
+* [ProcDump-for-Linux](https://github.com/microsoft/ProcDump-for-Linux) ⭐ 3,082 | 🐛 21 | 🌐 C | 📅 2026-07-29: A Linux version of the ProcDump Sysinternals tool
 * [ebpf\_exporter](https://github.com/cloudflare/ebpf_exporter) ⭐ 2,628 | 🐛 17 | 🌐 Go | 📅 2026-08-03: Prometheus exporter for custom eBPF metrics
 * [Linux Kernel Defence Map](https://github.com/a13xp0p0v/linux-kernel-defence-map) ⭐ 2,316 | 🐛 1 | 📅 2026-05-24
 * [wcc](https://github.com/endrazine/wcc) ⭐ 2,007 | 🐛 1 | 🌐 C | 📅 2026-07-17: The Witchcraft Compiler Collection
@@ -3082,11 +3082,11 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Cloud
 
-* [gVisor](https://github.com/google/gvisor) ⭐ 19,109 | 🐛 775 | 🌐 Go | 📅 2026-08-19: is an application kernel, written in Go, that implements a substantial portion of the Linux system surface.
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,953 | 🐛 164 | 🌐 Python | 📅 2026-08-18 is a static code analysis tool for infrastructure-as-code.
-* [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,794 | 🐛 295 | 🌐 Python | 📅 2025-09-23: Multi-Cloud Security Auditing Tool
+* [gVisor](https://github.com/google/gvisor) ⭐ 19,113 | 🐛 780 | 🌐 Go | 📅 2026-08-19: is an application kernel, written in Go, that implements a substantial portion of the Linux system surface.
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,954 | 🐛 163 | 🌐 Python | 📅 2026-08-19 is a static code analysis tool for infrastructure-as-code.
+* [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,795 | 🐛 295 | 🌐 Python | 📅 2025-09-23: Multi-Cloud Security Auditing Tool
 * [CloudFlair](https://github.com/christophetd/CloudFlair) ⭐ 2,969 | 🐛 11 | 🌐 Python | 📅 2025-05-01:  Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
-* [KICS](https://github.com/Checkmarx/kics) ⭐ 2,687 | 🐛 326 | 🌐 Open Policy Agent | 📅 2026-08-18 stands for Keeping Infrastructure as Code Secure, it is open source and is a must-have for any cloud native project. [KICS](https://kics.checkmarx.net/) finds security vulnerabilities, compliance issues, and infrastructure misconfigurations in following Infrastructure as Code solutions: Terraform, Kubernetes, Docker, AWS CloudFormation, Ansible. 1900+ queries are available.
+* [KICS](https://github.com/Checkmarx/kics) ⭐ 2,688 | 🐛 326 | 🌐 Open Policy Agent | 📅 2026-08-19 stands for Keeping Infrastructure as Code Secure, it is open source and is a must-have for any cloud native project. [KICS](https://kics.checkmarx.net/) finds security vulnerabilities, compliance issues, and infrastructure misconfigurations in following Infrastructure as Code solutions: Terraform, Kubernetes, Docker, AWS CloudFormation, Ansible. 1900+ queries are available.
 * [CloudFail](https://github.com/m0rtem/CloudFail) ⭐ 2,677 | 🐛 60 | 🌐 Python | 📅 2024-03-26: Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network
 * [badPods](https://github.com/BishopFox/badPods) ⭐ 709 | 🐛 0 | 🌐 Shell | 📅 2025-12-30: A collection of manifests that will create pods with elevated privileges.
 * (discontinued) [HatCloud](https://github.com/HatBashBR/HatCloud) ⭐ 528 | 🐛 16 | 🌐 Ruby | 📅 2023-08-17
@@ -3122,12 +3122,12 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### AWS
 
-* [Prowler](https://github.com/toniblyx/prowler#features) ⭐ 14,615 | 🐛 266 | 🌐 Python | 📅 2026-08-18: Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
+* [Prowler](https://github.com/toniblyx/prowler#features) ⭐ 14,620 | 🐛 266 | 🌐 Python | 📅 2026-08-19: Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
 * [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,377 | 🐛 131 | 🌐 Shell | 📅 2025-09-17: Prevents you from committing secrets and credentials into git repositories.
 * [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) ⭐ 9,499 | 🐛 10 | 🌐 Shell | 📅 2026-07-07: List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [CloudMapper](https://github.com/duo-labs/cloudmapper) ⭐ 6,288 | 🐛 210 | 🌐 JavaScript | 📅 2024-07-15: CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 * [Security Monkey](https://github.com/Netflix/security_monkey) ⚠️ Archived: Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
-* [FireProx](https://github.com/ustayready/fireprox) ⭐ 2,278 | 🐛 18 | 🌐 Python | 📅 2023-04-03: AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation.
+* [FireProx](https://github.com/ustayready/fireprox) ⭐ 2,279 | 🐛 18 | 🌐 Python | 📅 2023-04-03: AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation.
 * [Sadcloud](https://github.com/nccgroup/sadcloud) ⭐ 788 | 🐛 9 | 🌐 HCL | 📅 2023-10-14: A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure.
 * [barq](https://github.com/Voulnet/barq) ⭐ 388 | 🐛 2 | 🌐 Python | 📅 2022-11-19: The AWS Cloud Post Exploitation framework!
 * [Endgame](https://endgame.readthedocs.io/en/latest/): Creating [Backdoors in AWS](https://github.com/agnivesh/endgame/) ⭐ 274 | 🐛 0 | 🌐 Python | 📅 2021-02-16.
@@ -3138,7 +3138,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## Risk Assessment and Vulnerability Management
 
-* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,590 | 🐛 106 | 🌐 Go | 📅 2026-08-17 is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use. [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ⭐ 12,809 | 🐛 129 | 🌐 JavaScript | 📅 2026-08-19: Community curated list of templates for the nuclei engine to find a security vulnerability in application.
+* [Nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 30,599 | 🐛 106 | 🌐 Go | 📅 2026-08-17 is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use. [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ⭐ 12,813 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-19: Community curated list of templates for the nuclei engine to find a security vulnerability in application.
   * [Nuclei unleashed - writing first exploit](https://medium.com/@gpiechnik/nuclei-unleashed-writing-first-exploit-6a8dbd6b80b0)
 * [RITA (Real Intelligence Threat Analytics)](https://github.com/ocmdev/rita) ⭐ 2,509 | 🐛 85 | 🌐 Go | 📅 2026-01-12
 * [hcltm](https://github.com/xntrik/hcltm) ⭐ 464 | 🐛 17 | 🌐 Go | 📅 2026-08-16: Documenting your Threat Models with HCL.
@@ -3181,7 +3181,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## Radio
 
-* [srsLTE](https://github.com/srsLTE/srsLTE) ⭐ 4,046 | 🐛 347 | 🌐 C++ | 📅 2026-01-26: Open source SDR LTE software suite from Software Radio Systems (SRS)
+* [srsLTE](https://github.com/srsLTE/srsLTE) ⭐ 4,047 | 🐛 348 | 🌐 C++ | 📅 2026-01-26: Open source SDR LTE software suite from Software Radio Systems (SRS)
 * [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) ⭐ 1,719 | 🐛 1 | 📅 2024-05-28 is a collection of Radio Frequency Communication Protocol Hacktools.
 * [Presenting QCSuper](https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/): a tool for capturing your 2G/3G/4G air traffic on Qualcomm-based phones. [github](https://github.com/P1sec/QCSuper) ⭐ 1,637 | 🐛 121 | 🌐 Python | 📅 2026-07-23
 * [The gr-gsm project](https://github.com/ptrkrysik/gr-gsm) ⭐ 1,494 | 🐛 163 | 🌐 C++ | 📅 2025-03-10: Gnuradio blocks and tools for receiving GSM transmissions.
@@ -3203,7 +3203,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## Social Engineering
 
-* [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,206 | 🐛 12 | 🌐 Python | 📅 2026-06-04: repository from TrustedSec - All new versions of SET will be deployed here.
+* [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,207 | 🐛 12 | 🌐 Python | 📅 2026-06-04: repository from TrustedSec - All new versions of SET will be deployed here.
 * [Cartero](https://github.com/Section9Labs/Cartero/) ⭐ 176 | 🐛 3 | 🌐 Go | 📅 2026-03-08: Social Engineering Framework
 * [The Basics of Social Engineering](https://www.youtube.com/watch?v=tCRT3QFzwm8\&feature=youtu.be) by Chris Pritchard on DEF CON 27. Books suggested:
   * [Never Split Difference](https://www.thriftbooks.com/w/killer-deals_chris-voss_tahl-raz/10231806/) - Chris Voss
@@ -3214,19 +3214,19 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ## Tools
 
-* [mkcert](https://github.com/FiloSottile/mkcert) ⭐ 59,464 | 🐛 178 | 🌐 Go | 📅 2024-08-13: A simple zero-config tool to make locally trusted development certificates with any names you'd like
+* [mkcert](https://github.com/FiloSottile/mkcert) ⭐ 59,466 | 🐛 178 | 🌐 Go | 📅 2024-08-13: A simple zero-config tool to make locally trusted development certificates with any names you'd like
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,707 | 🐛 108 | 🌐 Python | 📅 2024-04-18
-* [vault](https://github.com/hashicorp/vault) ⭐ 36,138 | 🐛 1,423 | 🌐 Go | 📅 2026-08-18: A tool for secrets management, encryption as a service, and privileged access management
-* [Google Chromium](https://github.com/Eloston/ungoogled-chromium) ⭐ 27,454 | 🐛 187 | 🌐 Python | 📅 2026-08-12, sans integration with Google
+* [vault](https://github.com/hashicorp/vault) ⭐ 36,140 | 🐛 1,425 | 🌐 Go | 📅 2026-08-19: A tool for secrets management, encryption as a service, and privileged access management
+* [Google Chromium](https://github.com/Eloston/ungoogled-chromium) ⭐ 27,460 | 🐛 186 | 🌐 Python | 📅 2026-08-12, sans integration with Google
 * [ngrok](https://github.com/inconshreveable/ngrok) ⚠️ Archived: Introspected tunnels to localhost
-* [chezmoi](https://github.com/twpayne/chezmoi) ⭐ 21,211 | 🐛 60 | 🌐 Go | 📅 2026-08-19: Manage your dotfiles securely across multiple machines.
-* [bettercap](https://github.com/evilsocket/bettercap-ng) ⭐ 19,812 | 🐛 44 | 🌐 Go | 📅 2026-08-13, the Swiss army knife for network attacks and monitoring.
-* [Wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,775 | 🐛 353 | 🌐 Python | 📅 2026-05-22: is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
-* [Detect It Easy](https://github.com/horsicq/Detect-It-Easy) ⭐ 11,370 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-18: Program for determining types of files for Windows, Linux and MacOS. [DIE Engine](https://github.com/horsicq/DIE-engine) ⭐ 3,227 | 🐛 13 | 🌐 C++ | 📅 2026-08-19
-* [hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,259 | 🐛 34 | 🌐 Rust | 📅 2026-04-30: A command-line hex viewer.
+* [chezmoi](https://github.com/twpayne/chezmoi) ⭐ 21,215 | 🐛 60 | 🌐 Go | 📅 2026-08-19: Manage your dotfiles securely across multiple machines.
+* [bettercap](https://github.com/evilsocket/bettercap-ng) ⭐ 19,817 | 🐛 44 | 🌐 Go | 📅 2026-08-13, the Swiss army knife for network attacks and monitoring.
+* [Wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,774 | 🐛 353 | 🌐 Python | 📅 2026-05-22: is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
+* [Detect It Easy](https://github.com/horsicq/Detect-It-Easy) ⭐ 11,372 | 🐛 33 | 🌐 JavaScript | 📅 2026-08-18: Program for determining types of files for Windows, Linux and MacOS. [DIE Engine](https://github.com/horsicq/DIE-engine) ⭐ 3,227 | 🐛 14 | 🌐 C++ | 📅 2026-08-19
+* [hexyl](https://github.com/sharkdp/hexyl) ⭐ 10,260 | 🐛 34 | 🌐 Rust | 📅 2026-04-30: A command-line hex viewer.
 * [git-bug](https://github.com/MichaelMure/git-bug) ⭐ 10,005 | 🐛 176 | 🌐 Go | 📅 2026-07-06: Distributed bug tracker embedded in Git
-* [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,175 | 🐛 294 | 🌐 Python | 📅 2025-08-23: (⌐■\_■) - Deep Reinforcement Learning vs WiFI
-* [kbd-audio](https://github.com/ggerganov/kbd-audio) ⭐ 9,022 | 🐛 12 | 🌐 C++ | 📅 2023-01-15: Tools for capturing and analysing keyboard input paired with microphone capture
+* [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,175 | 🐛 294 | 🌐 Python | 📅 2026-08-19: (⌐■\_■) - Deep Reinforcement Learning vs WiFI
+* [kbd-audio](https://github.com/ggerganov/kbd-audio) ⭐ 9,023 | 🐛 12 | 🌐 C++ | 📅 2023-01-15: Tools for capturing and analysing keyboard input paired with microphone capture
 * [commando-vm](https://github.com/fireeye/commando-vm) ⭐ 7,785 | 🐛 10 | 🌐 PowerShell | 📅 2025-10-16: a fully customized, Windows-based security distribution for penetration testing and red teaming.
   * [commando packages](https://github.com/mandiant/commando-vm/blob/master/packages.csv) ⭐ 7,785 | 🐛 10 | 🌐 PowerShell | 📅 2025-10-16
 * [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,142 | 🐛 5 | 📅 2026-08-12: A list of command line tools for manipulating structured text data
@@ -3244,7 +3244,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 * [Gamifying machine learning for stronger security and AI models](https://www.microsoft.com/security/blog/2021/04/08/gamifying-machine-learning-for-stronger-security-and-ai-models/): [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,783 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-04-21: An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.
 * [noisy](https://github.com/1tayH/noisy) ⭐ 1,778 | 🐛 21 | 🌐 Python | 📅 2023-11-25: Simple random DNS, HTTP/S internet traffic noise generator
 * [PyREBox](https://github.com/Cisco-Talos/pyrebox) ⚠️ Archived is a Python scriptable Reverse Engineering sandbox
-* [gatekeeper](https://github.com/AltraMayor/gatekeeper) ⭐ 1,629 | 🐛 96 | 🌐 C | 📅 2025-11-05: First open-source DDoS protection system
+* [gatekeeper](https://github.com/AltraMayor/gatekeeper) ⭐ 1,630 | 🐛 96 | 🌐 C | 📅 2025-11-05: First open-source DDoS protection system
 * [python-nubia](https://github.com/facebookincubator/python-nubia/) ⚠️ Archived: A command-line and interactive shell framework.
 * [USB armory](https://github.com/inversepath/usbarmory) ⭐ 1,491 | 🐛 1 | 🌐 Ruby | 📅 2026-04-03: [open source flash-drive-sized computer](http://inversepath.com/usbarmory)
 * [XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) ⭐ 1,431 | 🐛 8 | 🌐 Python | 📅 2026-01-24: Generate secure multiword passwords/passphrases, inspired by XKCD
@@ -3337,11 +3337,11 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Note-taking
 
-* [marktext](https://github.com/marktext/marktext/) ⭐ 60,266 | 🐛 678 | 🌐 TypeScript | 📅 2026-07-27: A simple and elegant markdown editor, available for Linux, macOS and Windows.
-* [helix](https://github.com/helix-editor/helix) ⭐ 45,870 | 🐛 1,613 | 🌐 Rust | 📅 2026-08-18: A post-modern modal text editor.
-* \[trilium]<https://github.com/zadam/trilium> ⭐ 37,492 | 🐛 656 | 🌐 TypeScript | 📅 2026-08-19): Build your personal knowledge base with Trilium Notes.
-* [cherrytree](https://www.giuspen.com/cherrytree/): A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file. [repo](https://github.com/giuspen/cherrytree) ⭐ 3,929 | 🐛 967 | 🌐 C++ | 📅 2026-08-18
-* [cherrytree](https://www.giuspen.com/cherrytree/): A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file. [repo](https://github.com/giuspen/cherrytree) ⭐ 3,929 | 🐛 967 | 🌐 C++ | 📅 2026-08-18
+* [marktext](https://github.com/marktext/marktext/) ⭐ 60,296 | 🐛 680 | 🌐 TypeScript | 📅 2026-07-27: A simple and elegant markdown editor, available for Linux, macOS and Windows.
+* [helix](https://github.com/helix-editor/helix) ⭐ 45,878 | 🐛 1,614 | 🌐 Rust | 📅 2026-08-18: A post-modern modal text editor.
+* \[trilium]<https://github.com/zadam/trilium> ⭐ 37,499 | 🐛 664 | 🌐 TypeScript | 📅 2026-08-19): Build your personal knowledge base with Trilium Notes.
+* [cherrytree](https://www.giuspen.com/cherrytree/): A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file. [repo](https://github.com/giuspen/cherrytree) ⭐ 3,930 | 🐛 967 | 🌐 C++ | 📅 2026-08-18
+* [cherrytree](https://www.giuspen.com/cherrytree/): A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file. [repo](https://github.com/giuspen/cherrytree) ⭐ 3,930 | 🐛 967 | 🌐 C++ | 📅 2026-08-18
 * [CudaText](https://www.fosshub.com/CudaText.html), [repo](https://github.com/Alexey-T/CudaText) ⭐ 3,148 | 🐛 37 | 🌐 Python | 📅 2026-08-18
 * [SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX) ⭐ 917 | 🐛 87 | 🌐 JavaScript | 📅 2023-01-17: A cross-platform note-taking & target-tracking app for penetration testers.
 * [SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX) ⭐ 917 | 🐛 87 | 🌐 JavaScript | 📅 2023-01-17: A cross-platform note-taking & target-tracking app for penetration testers.
@@ -3387,8 +3387,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### VPN
 
-* [Nebula](https://github.com/slackhq/nebula) ⭐ 17,625 | 🐛 106 | 🌐 Go | 📅 2026-08-18: A scalable overlay networking tool with a focus on performance, simplicity and security. [Introducing Nebula](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/)
-* [SSHuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,521 | 🐛 212 | 🌐 Python | 📅 2026-08-17: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
+* [Nebula](https://github.com/slackhq/nebula) ⭐ 17,628 | 🐛 106 | 🌐 Go | 📅 2026-08-18: A scalable overlay networking tool with a focus on performance, simplicity and security. [Introducing Nebula](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/)
+* [SSHuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,520 | 🐛 212 | 🌐 Python | 📅 2026-08-17: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 * [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server) ⭐ 6,247 | 🐛 177 | 🌐 TypeScript | 📅 2026-05-13: VPN Server.
 * [uncaptcha2](https://github.com/ecthros/uncaptcha2) ⭐ 4,916 | 🐛 6 | 🌐 Python | 📅 2019-01-18: defeating the latest version of ReCaptcha with 91% accuracy
 * [PCredz](https://github.com/lgandx/PCredz) ⭐ 2,543 | 🐛 1 | 🌐 Python | 📅 2026-03-02: This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
@@ -3402,10 +3402,10 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Secure Sharing
 
-* [Cryptomator](https://cryptomator.org/): Multi-platform transparent client-side encryption of your files in the cloud. [code](https://github.com/cryptomator/cryptomator) ⭐ 15,915 | 🐛 282 | 🌐 Java | 📅 2026-08-18
+* [Cryptomator](https://cryptomator.org/): Multi-platform transparent client-side encryption of your files in the cloud. [code](https://github.com/cryptomator/cryptomator) ⭐ 15,916 | 🐛 282 | 🌐 Java | 📅 2026-08-18
 * Mozilla [send](https://github.com/mozilla/send) ⚠️ Archived: Simple, private file sharing from the makers of Firefox (archived). Revival: [send](https://github.com/timvisee/send) ⭐ 5,857 | 🐛 86 | 🌐 JavaScript | 📅 2025-07-01
 * [CryFS](https://www.cryfs.org/comparison/): Keep your data safe in the cloud. [code](https://github.com/cryfs/cryfs) ⭐ 2,300 | 🐛 144 | 🌐 Rust | 📅 2026-08-12
-* [ProjectSend](https://github.com/projectsend/projectsend) ⭐ 1,973 | 🐛 4 | 🌐 PHP | 📅 2026-08-19 is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more!
+* [ProjectSend](https://github.com/projectsend/projectsend) ⭐ 1,974 | 🐛 3 | 🌐 PHP | 📅 2026-08-19 is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more!
 * [CipherShed](https://www.ciphershed.org/): is a program that can be used to create encrypted files or encrypt entire drives (including USB flash drives and external HDDs). [code](https://github.com/CipherShed/CipherShed) ⭐ 647 | 🐛 13 | 🌐 C | 📅 2020-12-14
 * [DiskCryptor](https://www.diskcryptor.org/) is an open encryption solution that offers encryption of all disk partitions, including the system partition. [code](https://github.com/DavidXanatos/DiskCryptor) ⭐ 638 | 🐛 22 | 🌐 C | 📅 2026-07-18
 * [Nextcloud E2E](https://github.com/nextcloud/end_to_end_encryption_rfc) ⭐ 33 | 🐛 35 | 📅 2026-04-28: End-to-end encryption RFC. Some old news [about it](https://www.bitblokes.de/end-to-end-verschluesselung-e2e-nextcloud-14/)
@@ -3513,7 +3513,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 ### Training and Certifications
 
 * [Awesome Infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,718 | 🐛 15 | 📅 2026-08-15: A curated list of awesome infosec courses and training resources.
-* [awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) ⭐ 4,624 | 🐛 8 | 📅 2024-07-02: A curated list of hacking environments where you can train your cyber skills legally and safely.
+* [awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) ⭐ 4,627 | 🐛 8 | 📅 2024-07-02: A curated list of hacking environments where you can train your cyber skills legally and safely.
 * [Guide-CEH-Practical-Master](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master) ⭐ 1,409 | 🐛 2 | 📅 2023-10-08
 * [AWAE-PREP](https://github.com/wetw0rk/AWAE-PREP) ⭐ 951 | 🐛 1 | 🌐 Java | 📅 2025-01-06: This repository will serve as the "master" repo containing all trainings and tutorials done in preperation for OSWE in conjunction with the AWAE course. This repo will likely contain custom code by me and various courses.
 * [JustTryHarder](https://github.com/sinfulz/JustTryHarder) ⭐ 836 | 🐛 0 | 🌐 Python | 📅 2026-07-07: a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings).
@@ -3549,7 +3549,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Conferences and Slides
 
-* [Hardware Memory Tagging to make C/C++ memory safe(r)](https://github.com/google/sanitizers/blob/master/hwaddress-sanitizer/Hardware%20Memory%20Tagging%20to%20make%20C_C%2B%2B%20memory%20safe%28r%29%20-%20iSecCon%202018.pdf) ⭐ 12,450 | 🐛 548 | 🌐 C | 📅 2026-05-19
+* [Hardware Memory Tagging to make C/C++ memory safe(r)](https://github.com/google/sanitizers/blob/master/hwaddress-sanitizer/Hardware%20Memory%20Tagging%20to%20make%20C_C%2B%2B%20memory%20safe%28r%29%20-%20iSecCon%202018.pdf) ⭐ 12,449 | 🐛 548 | 🌐 C | 📅 2026-05-19
 * [ConPresentations](https://github.com/maddiestone/ConPresentations) ⭐ 368 | 🐛 0 | 📅 2023-09-30 by Maddie Stone.
 * [REhint's Publications](https://github.com/REhints/Publications) ⭐ 359 | 🐛 0 | 🌐 C | 📅 2020-01-03.
 * [The Advanced Threats Evolution: REsearchers Arm Race](https://github.com/REhints/Publications/tree/master/Conferences/OFFZONE'2019) ⭐ 359 | 🐛 0 | 🌐 C | 📅 2020-01-03 by @matrosov
@@ -3683,7 +3683,7 @@ Some good places to visit:
 * Github repos:
   * [gabrielmachado](https://github.com/gabrielmachado/)
 * Damn Vulnerable Web Application:
-  * [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,509 | 🐛 7 | 🌐 PHP | 📅 2026-08-07
+  * [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA) ⭐ 13,509 | 🐛 8 | 🌐 PHP | 📅 2026-08-07
   * [Damn Vulnerable C Program](https://github.com/hardik05/Damn_Vulnerable_C_Program) ⭐ 727 | 🐛 5 | 🌐 Rust | 📅 2024-10-19: a c program containing vulnerable code for common types of vulnerabilities, can be used to show fuzzing concepts.
   * [Damn Vulnerable Web Application Docker container](https://hub.docker.com/r/vulnerables/web-dvwa/)
 * [vvmlist](https://vvmlist.github.io/): vulnerable virtual machine list is a list of vulnerable vms with their attributes.
@@ -3701,13 +3701,13 @@ Some good places to visit:
 
 ## Fun
 
-* [Enigma, the Bombe, and Typex](https://github.com/gchq/CyberChef/wiki/Enigma,-the-Bombe,-and-Typex) ⭐ 35,609 | 🐛 556 | 🌐 JavaScript | 📅 2026-08-18
+* [Enigma, the Bombe, and Typex](https://github.com/gchq/CyberChef/wiki/Enigma,-the-Bombe,-and-Typex) ⭐ 35,609 | 🐛 554 | 🌐 JavaScript | 📅 2026-08-18
 * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) ⚠️ Archived: A curated list of awesome warez and piracy links.
 * [Posters, drawings...](https://github.com/corkami/pics) ⭐ 11,471 | 🐛 5 | 🌐 Assembly | 📅 2024-02-18
 * [abusing github commit history for the lulz](https://github.com/gelstudios/gitfiti) ⭐ 8,441 | 🐛 17 | 🌐 Python | 📅 2024-10-28
 * [KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) ⭐ 3,191 | 🐛 5 | 🌐 Dart | 📅 2024-02-04 app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 * [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) ⭐ 3,022 | 🐛 62 | 🌐 Nunjucks | 📅 2026-08-11
-* [BitmapFonts](https://github.com/ianhan/BitmapFonts) ⭐ 1,938 | 🐛 3 | 🌐 HTML | 📅 2026-04-16: My collection of bitmap fonts pulled from various demoscene archives over the years
+* [BitmapFonts](https://github.com/ianhan/BitmapFonts) ⭐ 1,939 | 🐛 3 | 🌐 HTML | 📅 2026-04-16: My collection of bitmap fonts pulled from various demoscene archives over the years
 * [Spoilerwall introduces a brand new concept in the field of network hardening](https://github.com/infobyte/spoilerwall) ⭐ 761 | 🐛 3 | 🌐 Python | 📅 2020-06-22
 * [Reverse Engineering Pokémon GO Plus](https://tinyhack.com/2018/11/21/reverse-engineering-pokemon-go-plus/): TL;DR; You can clone a Pokemon GO Plus device that you own. [pgpemu](https://github.com/yohanes/pgpemu) ⭐ 224 | 🐛 4 | 🌐 C | 📅 2020-07-19: github repo.
 * [resist\_oped](https://github.com/mkearney/resist_oped/) ⭐ 201 | 🐛 0 | 🌐 R | 📅 2018-09-10: 🕵🏽‍♀️ Identifying the author behind New York Time’s op-ed from inside the Trump White House.
